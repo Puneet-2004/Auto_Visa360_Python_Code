@@ -1,11 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
 def get_all_paths(url):
-    service = Service("path to chrome driver.app")  # Ensure you have ChromeDriver installed
+    service = Service(ChromeDriverManager().install())  # Auto-downloads the driver
     options = webdriver.ChromeOptions()
     options.add_argument("--headless")
     
