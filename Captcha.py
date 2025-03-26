@@ -10,23 +10,28 @@ def main():
     driver.get("https://ceac.state.gov/genniv/")  # Change to actual website
 
     # Select dropdown option
-    option = driver.find_element(By.XPATH, "//*[@id='ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation']/option[93]")  # Change value
+    dropdown = driver.find_element(By.ID, "ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation")  # Correct ID
+    dropdown.click()
+
+    option = driver.find_element(By.XPATH, "//*[@id='ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation']/option[93]")  # Select option
     option.click()
 
-    time.sleep(10)  # Wait for page refresh
+    time.sleep(5)  # Wait for page refresh
 
     # Show CAPTCHA image (for manual solving)
     print("\n[INFO] Please solve the CAPTCHA manually and enter the text below.")
 
     # Manually enter CAPTCHA text
     captcha_text = input("Enter CAPTCHA text: ")
-    time.sleep(10)
+
     # Enter CAPTCHA text in input field
-    captcha_input = driver.find_element(By.ID, '//*[@id="ctl00_SiteContentPlaceHolder_ucLocation_IdentifyCaptcha1_txtCodeTextBox"]')  # Change ID
+    captcha_input = driver.find_element(By.ID, "ctl00_SiteContentPlaceHolder_ucLocation_IdentifyCaptcha1_txtCodeTextBox")  # Correct ID
     captcha_input.send_keys(captcha_text)
 
+    time.sleep(2)  # Small delay before clicking submit
+
     # Click Submit button
-    submit_button = driver.find_element(By.ID, "//*[@id='ctl00_SiteContentPlaceHolder_lnkNew']")  # Change ID
+    submit_button = driver.find_element(By.ID, "ctl00_SiteContentPlaceHolder_lnkNew")  # Correct ID
     submit_button.click()
 
     print("\n[INFO] Form submitted successfully!")

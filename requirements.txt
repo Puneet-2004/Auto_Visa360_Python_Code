@@ -1,5 +1,4 @@
-Selenium
-BeautifulSoup
-pip install beautifulsoup4
-pip install lxml
-pip install webdriver-manager
+selenium
+beautifulsoup4
+lxml
+webdriver-manager
