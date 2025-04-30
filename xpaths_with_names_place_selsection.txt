@@ -1,0 +1,441 @@
+XPath: //select[1] | ID: ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation | Text: - SELECT ONE -
+    ALBANIA, TIRANA
+    ALGERIA, ALGIERS
+    ANGOLA, LUANDA
+    ARGENTINA, BUENOS AIRES
+    ARMENIA, YEREVAN
+    AUSTRALIA, MELBOURNE
+    AUSTRALIA, PERTH
+    AUSTRALIA, SYDNEY
+    AUSTRIA, VIENNA
+    AZERBAIJAN, BAKU
+    BAHAMAS, NASSAU
+    BAHRAIN, MANAMA
+    BANGLADESH, DHAKA
+    BARBADOS, BRIDGETOWN
+    BELGIUM, BRUSSELS
+    BELIZE, BELMOPAN
+    BENIN, COTONOU
+    BERMUDA, HAMILTON
+    BOLIVIA, LA PAZ
+    BOSNIA-HERZEGOVINA, SARAJEVO
+    BOTSWANA, GABORONE
+    BRAZIL, BRASILIA
+    BRAZIL, PORTO ALEGRE
+    BRAZIL, RECIFE
+    BRAZIL, RIO DE JANEIRO
+    BRAZIL, SAO PAULO
+    BRUNEI, BANDAR SERI BEGAWAN
+    BULGARIA, SOFIA
+    BURKINA FASO, OUAGADOUGOU
+    BURMA, RANGOON
+    BURUNDI, BUJUMBURA
+    CABO VERDE, PRAIA
+    CAMBODIA, PHNOM PENH
+    CAMEROON, YAOUNDE
+    CANADA, CALGARY
+    CANADA, HALIFAX
+    CANADA, MONTREAL
+    CANADA, OTTAWA
+    CANADA, QUEBEC
+    CANADA, TORONTO
+    CANADA, VANCOUVER
+    CHAD, N`DJAMENA
+    CHILE, SANTIAGO
+    CHINA, BEIJING
+    CHINA, GUANGZHOU
+    CHINA, SHANGHAI
+    CHINA, SHENYANG
+    CHINA, WUHAN
+    COLOMBIA, BOGOTA
+    CONGO, BRAZZAVILLE
+    CONGO, KINSHASA
+    COSTA RICA, SAN JOSE
+    COTE D`IVORIE, ABIDJAN
+    CROATIA, ZAGREB
+    CUBA, HAVANA
+    CURACAO, CURACAO
+    CYPRUS, NICOSIA
+    CZECH REPUBLIC, PRAGUE
+    DENMARK, COPENHAGEN
+    DJIBOUTI, DJIBOUTI
+    DOMINICAN REPUBLIC, SANTO DOMINGO
+    ECUADOR, GUAYAQUIL
+    ECUADOR, QUITO
+    EGYPT, CAIRO
+    EL SALVADOR, SAN SALVADOR
+    ENGLAND, LONDON
+    EQUATORIAL GUINEA, MALABO
+    ERITREA, ASMARA
+    ESTONIA, TALLINN
+    ESWATINI, MBABANE
+    ETHIOPIA, ADDIS ABABA
+    FIJI, SUVA
+    FINLAND, HELSINKI
+    FRANCE, PARIS
+    GABON, LIBREVILLE
+    GAMBIA, BANJUL
+    GEORGIA, TBILISI
+    GERMANY, BERLIN
+    GERMANY, FRANKFURT
+    GERMANY, MUNICH
+    GHANA, ACCRA
+    GREECE, ATHENS
+    GUATEMALA, GUATEMALA CITY
+    GUINEA, CONAKRY
+    GUYANA, GEORGETOWN
+    HAITI, PORT-AU-PRINCE
+    HONDURAS, TEGUCIGALPA
+    HONG KONG
+    HUNGARY, BUDAPEST
+    ICELAND, REYKJAVIK
+    INDIA, CHENNAI
+    INDIA, HYDERABAD
+    INDIA, KOLKATA
+    INDIA, MUMBAI
+    INDIA, NEW DELHI
+    INDONESIA, JAKARTA
+    INDONESIA, SURABAYA
+    IRAQ, BAGHDAD
+    IRAQ, ERBIL
+    IRELAND, DUBLIN
+    ISRAEL, TEL AVIV
+    ITALY, FLORENCE
+    ITALY, MILAN
+    ITALY, NAPLES
+    ITALY, ROME
+    JAMAICA, KINGSTON
+    JAPAN, NAHA
+    JAPAN, OSAKA/FUKUOKA
+    JAPAN, TOKYO/SAPPORO
+    JERUSALEM
+    JORDAN, AMMAN
+    KAZAKHSTAN, ALMATY
+    KAZAKHSTAN, ASTANA
+    KENYA, NAIROBI
+    KOSOVO, PRISTINA
+    KUWAIT, KUWAIT CITY
+    KYRGYZSTAN, BISHKEK
+    LAOS, VIENTIANE
+    LATVIA, RIGA
+    LEBANON, BEIRUT
+    LESOTHO, MASERU
+    LIBERIA, MONROVIA
+    LITHUANIA, VILNIUS
+    LUXEMBOURG, LUXEMBOURG
+    MADAGASCAR, ANTANANARIVO
+    MALAWI, LILONGWE
+    MALAYSIA, KUALA LUMPUR
+    MALI, BAMAKO
+    MALTA, VALLETTA
+    MARSHALL ISLANDS, MAJURO
+    MAURITANIA, NOUAKCHOTT
+    MAURITIUS, PORT LOUIS
+    MEXICO, CIUDAD JUAREZ
+    MEXICO, GUADALAJARA
+    MEXICO, HERMOSILLO
+    MEXICO, MATAMOROS
+    MEXICO, MERIDA
+    MEXICO, MEXICO CITY
+    MEXICO, MONTERREY
+    MEXICO, NOGALES
+    MEXICO, NUEVO LAREDO
+    MEXICO, TIJUANA
+    MICRONESIA, KOLONIA
+    MOLDOVA, CHISINAU
+    MONGOLIA, ULAANBAATAR
+    MONTENEGRO, PODGORICA
+    MOROCCO, CASABLANCA
+    MOZAMBIQUE, MAPUTO
+    NAMIBIA, WINDHOEK
+    NEPAL, KATHMANDU
+    NETHERLANDS, AMSTERDAM
+    NEW ZEALAND, AUCKLAND
+    NICARAGUA, MANAGUA
+    NIGER, NIAMEY
+    NIGERIA, ABUJA
+    NIGERIA, LAGOS
+    NORTH MACEDONIA, SKOPJE
+    NORTHERN IRELAND, BELFAST
+    NORWAY, OSLO
+    OMAN, MUSCAT
+    PAKISTAN, ISLAMABAD
+    PAKISTAN, KARACHI
+    PALAU, KOROR
+    PANAMA, PANAMA CITY
+    PAPUA NEW GUINEA, PORT MORESBY
+    PARAGUAY, ASUNCION
+    PERU, LIMA
+    PHILIPPINES, MANILA
+    POLAND, KRAKOW
+    POLAND, WARSAW
+    PORTUGAL, LISBON
+    QATAR, DOHA
+    ROMANIA, BUCHAREST
+    RUSSIA, MOSCOW
+    RWANDA, KIGALI
+    SAMOA, APIA
+    SAUDI ARABIA, DHAHRAN
+    SAUDI ARABIA, JEDDAH
+    SAUDI ARABIA, RIYADH
+    SENEGAL, DAKAR
+    SERBIA, BELGRADE
+    SIERRA LEONE, FREETOWN
+    SINGAPORE, SINGAPORE
+    SLOVAKIA, BRATISLAVA
+    SLOVENIA, LJUBLJANA
+    SOUTH AFRICA, CAPE TOWN
+    SOUTH AFRICA, DURBAN
+    SOUTH AFRICA, JOHANNESBURG
+    SOUTH KOREA, SEOUL
+    SOUTH SUDAN, JUBA
+    SPAIN, MADRID
+    SRI LANKA, COLOMBO
+    SURINAME, PARAMARIBO
+    SWEDEN, STOCKHOLM
+    SWITZERLAND, BERN
+    TAIWAN, TAIPEI
+    TAJIKISTAN, DUSHANBE
+    TANZANIA, DAR ES SALAAM
+    THAILAND, BANGKOK
+    THAILAND, CHIANG MAI
+    TIMOR LESTE, DILI
+    TOGO, LOME
+    TRINIDAD, PORT OF SPAIN
+    TUNISIA, TUNIS
+    TURKEY, ANKARA
+    TURKEY, ISTANBUL
+    TURKMENISTAN, ASHGABAT
+    UGANDA, KAMPALA
+    UKRAINE, KYIV
+    UNITED ARAB EMIRATES, ABU DHABI
+    UNITED ARAB EMIRATES, DUBAI
+    URUGUAY, MONTEVIDEO
+    UZBEKISTAN, TASHKENT
+    VIETNAM, HANOI
+    VIETNAM, HO CHI MINH CITY
+    ZAMBIA, LUSAKA
+    ZIMBABWE, HARARE
+XPath: //option[1] | ID: null | Text: - SELECT ONE -
+XPath: //option[2] | ID: null | Text: ALBANIA, TIRANA
+XPath: //option[3] | ID: null | Text: ALGERIA, ALGIERS
+XPath: //option[4] | ID: null | Text: ANGOLA, LUANDA
+XPath: //option[5] | ID: null | Text: ARGENTINA, BUENOS AIRES
+XPath: //option[6] | ID: null | Text: ARMENIA, YEREVAN
+XPath: //option[7] | ID: null | Text: AUSTRALIA, MELBOURNE
+XPath: //option[8] | ID: null | Text: AUSTRALIA, PERTH
+XPath: //option[9] | ID: null | Text: AUSTRALIA, SYDNEY
+XPath: //option[10] | ID: null | Text: AUSTRIA, VIENNA
+XPath: //option[11] | ID: null | Text: AZERBAIJAN, BAKU
+XPath: //option[12] | ID: null | Text: BAHAMAS, NASSAU
+XPath: //option[13] | ID: null | Text: BAHRAIN, MANAMA
+XPath: //option[14] | ID: null | Text: BANGLADESH, DHAKA
+XPath: //option[15] | ID: null | Text: BARBADOS, BRIDGETOWN
+XPath: //option[16] | ID: null | Text: BELGIUM, BRUSSELS
+XPath: //option[17] | ID: null | Text: BELIZE, BELMOPAN
+XPath: //option[18] | ID: null | Text: BENIN, COTONOU
+XPath: //option[19] | ID: null | Text: BERMUDA, HAMILTON
+XPath: //option[20] | ID: null | Text: BOLIVIA, LA PAZ
+XPath: //option[21] | ID: null | Text: BOSNIA-HERZEGOVINA, SARAJEVO
+XPath: //option[22] | ID: null | Text: BOTSWANA, GABORONE
+XPath: //option[23] | ID: null | Text: BRAZIL, BRASILIA
+XPath: //option[24] | ID: null | Text: BRAZIL, PORTO ALEGRE
+XPath: //option[25] | ID: null | Text: BRAZIL, RECIFE
+XPath: //option[26] | ID: null | Text: BRAZIL, RIO DE JANEIRO
+XPath: //option[27] | ID: null | Text: BRAZIL, SAO PAULO
+XPath: //option[28] | ID: null | Text: BRUNEI, BANDAR SERI BEGAWAN
+XPath: //option[29] | ID: null | Text: BULGARIA, SOFIA
+XPath: //option[30] | ID: null | Text: BURKINA FASO, OUAGADOUGOU
+XPath: //option[31] | ID: null | Text: BURMA, RANGOON
+XPath: //option[32] | ID: null | Text: BURUNDI, BUJUMBURA
+XPath: //option[33] | ID: null | Text: CABO VERDE, PRAIA
+XPath: //option[34] | ID: null | Text: CAMBODIA, PHNOM PENH
+XPath: //option[35] | ID: null | Text: CAMEROON, YAOUNDE
+XPath: //option[36] | ID: null | Text: CANADA, CALGARY
+XPath: //option[37] | ID: null | Text: CANADA, HALIFAX
+XPath: //option[38] | ID: null | Text: CANADA, MONTREAL
+XPath: //option[39] | ID: null | Text: CANADA, OTTAWA
+XPath: //option[40] | ID: null | Text: CANADA, QUEBEC
+XPath: //option[41] | ID: null | Text: CANADA, TORONTO
+XPath: //option[42] | ID: null | Text: CANADA, VANCOUVER
+XPath: //option[43] | ID: null | Text: CHAD, N`DJAMENA
+XPath: //option[44] | ID: null | Text: CHILE, SANTIAGO
+XPath: //option[45] | ID: null | Text: CHINA, BEIJING
+XPath: //option[46] | ID: null | Text: CHINA, GUANGZHOU
+XPath: //option[47] | ID: null | Text: CHINA, SHANGHAI
+XPath: //option[48] | ID: null | Text: CHINA, SHENYANG
+XPath: //option[49] | ID: null | Text: CHINA, WUHAN
+XPath: //option[50] | ID: null | Text: COLOMBIA, BOGOTA
+XPath: //option[51] | ID: null | Text: CONGO, BRAZZAVILLE
+XPath: //option[52] | ID: null | Text: CONGO, KINSHASA
+XPath: //option[53] | ID: null | Text: COSTA RICA, SAN JOSE
+XPath: //option[54] | ID: null | Text: COTE D`IVORIE, ABIDJAN
+XPath: //option[55] | ID: null | Text: CROATIA, ZAGREB
+XPath: //option[56] | ID: null | Text: CUBA, HAVANA
+XPath: //option[57] | ID: null | Text: CURACAO, CURACAO
+XPath: //option[58] | ID: null | Text: CYPRUS, NICOSIA
+XPath: //option[59] | ID: null | Text: CZECH REPUBLIC, PRAGUE
+XPath: //option[60] | ID: null | Text: DENMARK, COPENHAGEN
+XPath: //option[61] | ID: null | Text: DJIBOUTI, DJIBOUTI
+XPath: //option[62] | ID: null | Text: DOMINICAN REPUBLIC, SANTO DOMINGO
+XPath: //option[63] | ID: null | Text: ECUADOR, GUAYAQUIL
+XPath: //option[64] | ID: null | Text: ECUADOR, QUITO
+XPath: //option[65] | ID: null | Text: EGYPT, CAIRO
+XPath: //option[66] | ID: null | Text: EL SALVADOR, SAN SALVADOR
+XPath: //option[67] | ID: null | Text: ENGLAND, LONDON
+XPath: //option[68] | ID: null | Text: EQUATORIAL GUINEA, MALABO
+XPath: //option[69] | ID: null | Text: ERITREA, ASMARA
+XPath: //option[70] | ID: null | Text: ESTONIA, TALLINN
+XPath: //option[71] | ID: null | Text: ESWATINI, MBABANE
+XPath: //option[72] | ID: null | Text: ETHIOPIA, ADDIS ABABA
+XPath: //option[73] | ID: null | Text: FIJI, SUVA
+XPath: //option[74] | ID: null | Text: FINLAND, HELSINKI
+XPath: //option[75] | ID: null | Text: FRANCE, PARIS
+XPath: //option[76] | ID: null | Text: GABON, LIBREVILLE
+XPath: //option[77] | ID: null | Text: GAMBIA, BANJUL
+XPath: //option[78] | ID: null | Text: GEORGIA, TBILISI
+XPath: //option[79] | ID: null | Text: GERMANY, BERLIN
+XPath: //option[80] | ID: null | Text: GERMANY, FRANKFURT
+XPath: //option[81] | ID: null | Text: GERMANY, MUNICH
+XPath: //option[82] | ID: null | Text: GHANA, ACCRA
+XPath: //option[83] | ID: null | Text: GREECE, ATHENS
+XPath: //option[84] | ID: null | Text: GUATEMALA, GUATEMALA CITY
+XPath: //option[85] | ID: null | Text: GUINEA, CONAKRY
+XPath: //option[86] | ID: null | Text: GUYANA, GEORGETOWN
+XPath: //option[87] | ID: null | Text: HAITI, PORT-AU-PRINCE
+XPath: //option[88] | ID: null | Text: HONDURAS, TEGUCIGALPA
+XPath: //option[89] | ID: null | Text: HONG KONG
+XPath: //option[90] | ID: null | Text: HUNGARY, BUDAPEST
+XPath: //option[91] | ID: null | Text: ICELAND, REYKJAVIK
+XPath: //option[92] | ID: null | Text: INDIA, CHENNAI
+XPath: //option[93] | ID: null | Text: INDIA, HYDERABAD
+XPath: //option[94] | ID: null | Text: INDIA, KOLKATA
+XPath: //option[95] | ID: null | Text: INDIA, MUMBAI
+XPath: //option[96] | ID: null | Text: INDIA, NEW DELHI
+XPath: //option[97] | ID: null | Text: INDONESIA, JAKARTA
+XPath: //option[98] | ID: null | Text: INDONESIA, SURABAYA
+XPath: //option[99] | ID: null | Text: IRAQ, BAGHDAD
+XPath: //option[100] | ID: null | Text: IRAQ, ERBIL
+XPath: //option[101] | ID: null | Text: IRELAND, DUBLIN
+XPath: //option[102] | ID: null | Text: ISRAEL, TEL AVIV
+XPath: //option[103] | ID: null | Text: ITALY, FLORENCE
+XPath: //option[104] | ID: null | Text: ITALY, MILAN
+XPath: //option[105] | ID: null | Text: ITALY, NAPLES
+XPath: //option[106] | ID: null | Text: ITALY, ROME
+XPath: //option[107] | ID: null | Text: JAMAICA, KINGSTON
+XPath: //option[108] | ID: null | Text: JAPAN, NAHA
+XPath: //option[109] | ID: null | Text: JAPAN, OSAKA/FUKUOKA
+XPath: //option[110] | ID: null | Text: JAPAN, TOKYO/SAPPORO
+XPath: //option[111] | ID: null | Text: JERUSALEM
+XPath: //option[112] | ID: null | Text: JORDAN, AMMAN
+XPath: //option[113] | ID: null | Text: KAZAKHSTAN, ALMATY
+XPath: //option[114] | ID: null | Text: KAZAKHSTAN, ASTANA
+XPath: //option[115] | ID: null | Text: KENYA, NAIROBI
+XPath: //option[116] | ID: null | Text: KOSOVO, PRISTINA
+XPath: //option[117] | ID: null | Text: KUWAIT, KUWAIT CITY
+XPath: //option[118] | ID: null | Text: KYRGYZSTAN, BISHKEK
+XPath: //option[119] | ID: null | Text: LAOS, VIENTIANE
+XPath: //option[120] | ID: null | Text: LATVIA, RIGA
+XPath: //option[121] | ID: null | Text: LEBANON, BEIRUT
+XPath: //option[122] | ID: null | Text: LESOTHO, MASERU
+XPath: //option[123] | ID: null | Text: LIBERIA, MONROVIA
+XPath: //option[124] | ID: null | Text: LITHUANIA, VILNIUS
+XPath: //option[125] | ID: null | Text: LUXEMBOURG, LUXEMBOURG
+XPath: //option[126] | ID: null | Text: MADAGASCAR, ANTANANARIVO
+XPath: //option[127] | ID: null | Text: MALAWI, LILONGWE
+XPath: //option[128] | ID: null | Text: MALAYSIA, KUALA LUMPUR
+XPath: //option[129] | ID: null | Text: MALI, BAMAKO
+XPath: //option[130] | ID: null | Text: MALTA, VALLETTA
+XPath: //option[131] | ID: null | Text: MARSHALL ISLANDS, MAJURO
+XPath: //option[132] | ID: null | Text: MAURITANIA, NOUAKCHOTT
+XPath: //option[133] | ID: null | Text: MAURITIUS, PORT LOUIS
+XPath: //option[134] | ID: null | Text: MEXICO, CIUDAD JUAREZ
+XPath: //option[135] | ID: null | Text: MEXICO, GUADALAJARA
+XPath: //option[136] | ID: null | Text: MEXICO, HERMOSILLO
+XPath: //option[137] | ID: null | Text: MEXICO, MATAMOROS
+XPath: //option[138] | ID: null | Text: MEXICO, MERIDA
+XPath: //option[139] | ID: null | Text: MEXICO, MEXICO CITY
+XPath: //option[140] | ID: null | Text: MEXICO, MONTERREY
+XPath: //option[141] | ID: null | Text: MEXICO, NOGALES
+XPath: //option[142] | ID: null | Text: MEXICO, NUEVO LAREDO
+XPath: //option[143] | ID: null | Text: MEXICO, TIJUANA
+XPath: //option[144] | ID: null | Text: MICRONESIA, KOLONIA
+XPath: //option[145] | ID: null | Text: MOLDOVA, CHISINAU
+XPath: //option[146] | ID: null | Text: MONGOLIA, ULAANBAATAR
+XPath: //option[147] | ID: null | Text: MONTENEGRO, PODGORICA
+XPath: //option[148] | ID: null | Text: MOROCCO, CASABLANCA
+XPath: //option[149] | ID: null | Text: MOZAMBIQUE, MAPUTO
+XPath: //option[150] | ID: null | Text: NAMIBIA, WINDHOEK
+XPath: //option[151] | ID: null | Text: NEPAL, KATHMANDU
+XPath: //option[152] | ID: null | Text: NETHERLANDS, AMSTERDAM
+XPath: //option[153] | ID: null | Text: NEW ZEALAND, AUCKLAND
+XPath: //option[154] | ID: null | Text: NICARAGUA, MANAGUA
+XPath: //option[155] | ID: null | Text: NIGER, NIAMEY
+XPath: //option[156] | ID: null | Text: NIGERIA, ABUJA
+XPath: //option[157] | ID: null | Text: NIGERIA, LAGOS
+XPath: //option[158] | ID: null | Text: NORTH MACEDONIA, SKOPJE
+XPath: //option[159] | ID: null | Text: NORTHERN IRELAND, BELFAST
+XPath: //option[160] | ID: null | Text: NORWAY, OSLO
+XPath: //option[161] | ID: null | Text: OMAN, MUSCAT
+XPath: //option[162] | ID: null | Text: PAKISTAN, ISLAMABAD
+XPath: //option[163] | ID: null | Text: PAKISTAN, KARACHI
+XPath: //option[164] | ID: null | Text: PALAU, KOROR
+XPath: //option[165] | ID: null | Text: PANAMA, PANAMA CITY
+XPath: //option[166] | ID: null | Text: PAPUA NEW GUINEA, PORT MORESBY
+XPath: //option[167] | ID: null | Text: PARAGUAY, ASUNCION
+XPath: //option[168] | ID: null | Text: PERU, LIMA
+XPath: //option[169] | ID: null | Text: PHILIPPINES, MANILA
+XPath: //option[170] | ID: null | Text: POLAND, KRAKOW
+XPath: //option[171] | ID: null | Text: POLAND, WARSAW
+XPath: //option[172] | ID: null | Text: PORTUGAL, LISBON
+XPath: //option[173] | ID: null | Text: QATAR, DOHA
+XPath: //option[174] | ID: null | Text: ROMANIA, BUCHAREST
+XPath: //option[175] | ID: null | Text: RUSSIA, MOSCOW
+XPath: //option[176] | ID: null | Text: RWANDA, KIGALI
+XPath: //option[177] | ID: null | Text: SAMOA, APIA
+XPath: //option[178] | ID: null | Text: SAUDI ARABIA, DHAHRAN
+XPath: //option[179] | ID: null | Text: SAUDI ARABIA, JEDDAH
+XPath: //option[180] | ID: null | Text: SAUDI ARABIA, RIYADH
+XPath: //option[181] | ID: null | Text: SENEGAL, DAKAR
+XPath: //option[182] | ID: null | Text: SERBIA, BELGRADE
+XPath: //option[183] | ID: null | Text: SIERRA LEONE, FREETOWN
+XPath: //option[184] | ID: null | Text: SINGAPORE, SINGAPORE
+XPath: //option[185] | ID: null | Text: SLOVAKIA, BRATISLAVA
+XPath: //option[186] | ID: null | Text: SLOVENIA, LJUBLJANA
+XPath: //option[187] | ID: null | Text: SOUTH AFRICA, CAPE TOWN
+XPath: //option[188] | ID: null | Text: SOUTH AFRICA, DURBAN
+XPath: //option[189] | ID: null | Text: SOUTH AFRICA, JOHANNESBURG
+XPath: //option[190] | ID: null | Text: SOUTH KOREA, SEOUL
+XPath: //option[191] | ID: null | Text: SOUTH SUDAN, JUBA
+XPath: //option[192] | ID: null | Text: SPAIN, MADRID
+XPath: //option[193] | ID: null | Text: SRI LANKA, COLOMBO
+XPath: //option[194] | ID: null | Text: SURINAME, PARAMARIBO
+XPath: //option[195] | ID: null | Text: SWEDEN, STOCKHOLM
+XPath: //option[196] | ID: null | Text: SWITZERLAND, BERN
+XPath: //option[197] | ID: null | Text: TAIWAN, TAIPEI
+XPath: //option[198] | ID: null | Text: TAJIKISTAN, DUSHANBE
+XPath: //option[199] | ID: null | Text: TANZANIA, DAR ES SALAAM
+XPath: //option[200] | ID: null | Text: THAILAND, BANGKOK
+XPath: //option[201] | ID: null | Text: THAILAND, CHIANG MAI
+XPath: //option[202] | ID: null | Text: TIMOR LESTE, DILI
+XPath: //option[203] | ID: null | Text: TOGO, LOME
+XPath: //option[204] | ID: null | Text: TRINIDAD, PORT OF SPAIN
+XPath: //option[205] | ID: null | Text: TUNISIA, TUNIS
+XPath: //option[206] | ID: null | Text: TURKEY, ANKARA
+XPath: //option[207] | ID: null | Text: TURKEY, ISTANBUL
+XPath: //option[208] | ID: null | Text: TURKMENISTAN, ASHGABAT
+XPath: //option[209] | ID: null | Text: UGANDA, KAMPALA
+XPath: //option[210] | ID: null | Text: UKRAINE, KYIV
+XPath: //option[211] | ID: null | Text: UNITED ARAB EMIRATES, ABU DHABI
+XPath: //option[212] | ID: null | Text: UNITED ARAB EMIRATES, DUBAI
+XPath: //option[213] | ID: null | Text: URUGUAY, MONTEVIDEO
+XPath: //option[214] | ID: null | Text: UZBEKISTAN, TASHKENT
+XPath: //option[215] | ID: null | Text: VIETNAM, HANOI
+XPath: //option[216] | ID: null | Text: VIETNAM, HO CHI MINH CITY
+XPath: //option[217] | ID: null | Text: ZAMBIA, LUSAKA
+XPath: //option[218] | ID: null | Text: ZIMBABWE, HARARE
+XPath: //div[3] | ID: null | Text: Enter the code as shown:
+XPath: //div[1] | ID: ctl00_SiteContentPlaceHolder_ucLocation_IdentifyCaptcha1_Panel1 | Text: null
+XPath: //table[1] | ID: null | Text: Enter the code as shown:
+XPath: //tbody[1] | ID: null | Text: Enter the code as shown:
+

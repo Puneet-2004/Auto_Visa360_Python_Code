@@ -1,10 +1,11 @@
 # Auto_Visa360_Python_Code
 
-You need to get a chromium driver.
+This is the backend python code for Autovisa360 application
 
-try to get one that is of the same version as that of your browser i.e google crome
+This contains the following files:
 
-then update its location in code
+**Captcha.py:** This is currently the main file responsible for filling the data. Since it is currently unable to complete captcha manually it is using human hands to do it but it fills the rest of the dat by itself. It will also be modified in future versions to collect the xpath info of the page to better facilitate the filling of data
 
-you can use this to download the chromiumdriver "https://googlechromelabs.github.io/chrome-for-testing/"
-this is for windows 64-bit: "https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win64/chromedriver-win64.zip"
+**Scrape.py:** This is a python code to scrape the paths in the website
+
+**scrape_xpaths.py:** This file contains the code to collect xpath and the corresponding text and store it in a file
