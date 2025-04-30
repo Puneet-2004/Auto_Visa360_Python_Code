@@ -161,34 +161,34 @@ def main():
             "type": "select",
             "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_MARITAL_STATUS"
         },
-        "dateOfBirth_day": {
+        "dob_D": {
             "type": "select",
-            "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlBirthDay"
+            "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlDOBDay"
         },
-        "dateOfBirth_month": {
+        "dob_M": {
             "type": "select",
-            "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlBirthMonth"
+            "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlDOBMonth"
         },
-        "dateOfBirth_year": {
+        "dob_Y": {
             "type": "input",
-            "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxBirthYear"
+            "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxDOBYear"
         },
-        "placeOfBirth_city_na": {
+        "birthCity": {
             "type": "checkbox",
-            "id": "ctl00_SiteContentPlaceHolder_FormView1_cbexCityOfBirthNA"
+            "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_POB_CITY"
         },
-        "placeOfBirth_state_na": {
+        "birthState": {
             "type": "checkbox",
-            "id": "ctl00_SiteContentPlaceHolder_FormView1_cbexStateOfBirthNA"
+            "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_POB_ST_PROVINCE"
         },
-        "placeOfBirth_country_na": {
+        "birthCountry": {
             "type": "checkbox",
-            "id": "ctl00_SiteContentPlaceHolder_FormView1_cbexCountryOfBirthNA"
+            "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_POB_CNTRY"
         }
     }
 
 
-    # Find all elements on the page
+    """# Find all elements on the page
     elements = driver.find_elements(By.XPATH, "//*")
     
     # Open file for writing
@@ -197,74 +197,70 @@ def main():
             xpath = get_xpath(driver, element)
             element_id = element.get_attribute("id") or "null"
             text_content = element.text.strip() or "null"
-            file.write(f"XPath: {xpath} | ID: {element_id} | Text: {text_content}\n")
+            file.write(f"XPath: {xpath} | ID: {element_id} | Text: {text_content}\n")"""
 
 
     
     data = fetch_data_from_mongo(extract_table_name(driver))
-    for field, config in FIELD_XPATHS.items():
-        value = data.get(field)
-        if value is None:
-            print(f"[WARN] No value for {field}")
-            continue
 
-        try:
-            for field, config in FIELD_XPATHS.items():
-                value = data.get(field)
-                if value is None:
-                    print(f"[WARN] No value for {field}")
-                    continue
+    try:
+        for field, config in FIELD_XPATHS.items():
+            value = data.get(field)
+            if value is None:
+                print(f"[WARN] No value for {field}")
+                continue
 
-                field_type = config["type"]
+            field_type = config["type"]
 
-                # Handle "Does Not Apply" first
-                if value == "N/A" and config.get("na_checkbox"):
-                    if element_exists(driver, By.ID, config["na_checkbox"]):
-                        checkbox = driver.find_element(By.ID, config["na_checkbox"])
-                        if not checkbox.is_selected():
-                            checkbox.click()
-                        print(f"[INFO] Checked 'Does Not Apply' for {field}")
-                    else:
-                        print(f"[SKIP] N/A checkbox for '{field}' not present on this page.")
-                    continue
-
-                # Skip fields not on this page
-                if field_type == "radio":
-                    val_lower = value.lower()
-                    idx = 0 if val_lower == "yes" else 1
-                    radio_id = f"{config['group_prefix']}_{idx}"
-                    if not element_exists(driver, By.ID, radio_id):
-                        print(f"[SKIP] Radio field '{field}' not present.")
-                        continue
-                    driver.find_element(By.ID, radio_id).click()
-
+            # Handle "Does Not Apply" checkboxes
+            if value == "N/A" and config.get("na_checkbox"):
+                if element_exists(driver, By.ID, config["na_checkbox"]):
+                    checkbox = driver.find_element(By.ID, config["na_checkbox"])
+                    if not checkbox.is_selected():
+                        checkbox.click()
+                    print(f"[INFO] Checked 'Does Not Apply' for {field}")
                 else:
-                    field_id = config["id"]
-                    if not element_exists(driver, By.ID, field_id):
-                        print(f"[SKIP] Field '{field}' not present.")
-                        continue
+                    print(f"[SKIP] N/A checkbox for '{field}' not present.")
+                continue
 
-                    elem = driver.find_element(By.ID, field_id)
-                    tag = elem.tag_name.lower()
+            # Handle radio buttons
+            if field_type == "radio":
+                val_lower = value.lower()
+                idx = 0 if val_lower == "yes" else 1
+                radio_id = f"{config['group_prefix']}_{idx}"
+                if not element_exists(driver, By.ID, radio_id):
+                    print(f"[SKIP] Radio field '{field}' not present.")
+                    continue
+                driver.find_element(By.ID, radio_id).click()
 
-                    if tag == "input":
-                        elem.clear()
-                        elem.send_keys(str(value))
-                    elif tag == "select":
-                        all_options = [opt.text.strip().upper() for opt in Select(elem).options]
-                        val_upper = str(value).strip().upper()
-                        if val_upper in all_options:
-                            Select(elem).select_by_visible_text(val_upper)
-                        else:
-                            print(f"[WARN] Option '{value}' not found for select field '{field}'")
+            # Handle standard fields
+            else:
+                field_id = config["id"]
+                if not element_exists(driver, By.ID, field_id):
+                    print(f"[SKIP] Field '{field}' not present.")
+                    continue
 
+                elem = driver.find_element(By.ID, field_id)
+                tag = elem.tag_name.lower()
 
-                print(f"[INFO] Filled {field} with value '{value}'")
+                if tag == "input":
+                    elem.clear()
+                    elem.send_keys(str(value))
+                elif tag == "select":
+                    all_options = [opt.text.strip().upper() for opt in Select(elem).options]
+                    val_upper = str(value).strip().upper()
+                    if val_upper in all_options:
+                        Select(elem).select_by_visible_text(val_upper)
+                    else:
+                        print(f"[WARN] Option '{value}' not found for select field '{field}'")
 
-        except Exception as e:
-            import traceback
-            print("[ERROR] Exception during form filling:")
-            traceback.print_exc()
+            print(f"[INFO] Filled {field} with value '{value}'")
+
+    except Exception as e:
+        import traceback
+        print("[ERROR] Exception during form filling:")
+        traceback.print_exc()
+
 
 
     while True:

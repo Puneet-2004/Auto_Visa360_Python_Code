@@ -1,0 +1,7440 @@
+XPath: //html[1] | ID: null | Text: Select Tooltip Language 
+  
+English
+  العربية (Arabic)
+  বাংলা (Bangla)
+  中文(简体）(Chinese-Simplified)
+  中文(繁體）(Chinese-Traditional)
+  Français (French)
+  Deutsch (German)
+  עברית (Hebrew)
+  हिन्दी (Hindi)
+  Indonesia (Indonesian)
+  Italiano (Italian)
+  日本語 (Japanese)
+  한국어 (Korean)
+  Crnogorski (Montenegrin(Latin))
+  فارسی (Persian(Farsi))
+  Polski (Polish)
+  Português (Portuguese)
+  Română (Romanian)
+  Русский (Russian)
+  Español (Spanish)
+  ภาษาไทย (Thai)
+  Türkçe (Turkish)
+  اردو (Urdu)
+  Việt (Vietnamese)
+  Contact Us
+Help
+Exit
+COMPLETE
+REVIEW
+SIGN
+Getting Started
+Personal
+Personal 1
+Personal 2
+Travel
+Travel Companions
+Previous U.S. Travel
+Address and Phone
+Passport
+U.S. Contact
+Family
+Work / Education / Training
+Security and Background
+Help: Navigation Buttons
+Click on the buttons above to access previously entered data.
+Online Nonimmigrant Visa Application (DS-160)
+Application ID AA00ELPQJV
+Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+
+This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+Copyright Information   Disclaimers   Paperwork Reduction Act   FBI Privacy Act
+(234)
+XPath: //head[1] | ID: ctl00_Head1 | Text: null
+XPath: //script[1] | ID: null | Text: null
+XPath: //script[2] | ID: null | Text: null
+XPath: //script[3] | ID: null | Text: null
+XPath: //body[1] | ID: null | Text: Select Tooltip Language 
+  
+English
+  العربية (Arabic)
+  বাংলা (Bangla)
+  中文(简体）(Chinese-Simplified)
+  中文(繁體）(Chinese-Traditional)
+  Français (French)
+  Deutsch (German)
+  עברית (Hebrew)
+  हिन्दी (Hindi)
+  Indonesia (Indonesian)
+  Italiano (Italian)
+  日本語 (Japanese)
+  한국어 (Korean)
+  Crnogorski (Montenegrin(Latin))
+  فارسی (Persian(Farsi))
+  Polski (Polish)
+  Português (Portuguese)
+  Română (Romanian)
+  Русский (Russian)
+  Español (Spanish)
+  ภาษาไทย (Thai)
+  Türkçe (Turkish)
+  اردو (Urdu)
+  Việt (Vietnamese)
+  Contact Us
+Help
+Exit
+COMPLETE
+REVIEW
+SIGN
+Getting Started
+Personal
+Personal 1
+Personal 2
+Travel
+Travel Companions
+Previous U.S. Travel
+Address and Phone
+Passport
+U.S. Contact
+Family
+Work / Education / Training
+Security and Background
+Help: Navigation Buttons
+Click on the buttons above to access previously entered data.
+Online Nonimmigrant Visa Application (DS-160)
+Application ID AA00ELPQJV
+Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+
+This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+Copyright Information   Disclaimers   Paperwork Reduction Act   FBI Privacy Act
+(234)
+XPath: //apm_do_not_touch[1] | ID: null | Text: null
+XPath: //script[1] | ID: null | Text: null
+XPath: //script[2] | ID: null | Text: null
+XPath: //script[1] | ID: null | Text: null
+XPath: //title[1] | ID: null | Text: null
+XPath: //script[2] | ID: null | Text: null
+XPath: //script[3] | ID: null | Text: null
+XPath: //script[4] | ID: null | Text: null
+XPath: //meta[1] | ID: null | Text: null
+XPath: //link[1] | ID: null | Text: null
+XPath: //link[2] | ID: null | Text: null
+XPath: //link[3] | ID: null | Text: null
+XPath: //script[5] | ID: null | Text: null
+XPath: //script[6] | ID: null | Text: null
+XPath: //script[7] | ID: null | Text: null
+XPath: //script[8] | ID: null | Text: null
+XPath: //script[9] | ID: null | Text: null
+XPath: //script[10] | ID: null | Text: null
+XPath: //script[11] | ID: _fed_an_ua_tag | Text: null
+XPath: //input[1] | ID: Hidden1 | Text: null
+XPath: //form[1] | ID: aspnetForm | Text: Select Tooltip Language 
+  
+English
+  العربية (Arabic)
+  বাংলা (Bangla)
+  中文(简体）(Chinese-Simplified)
+  中文(繁體）(Chinese-Traditional)
+  Français (French)
+  Deutsch (German)
+  עברית (Hebrew)
+  हिन्दी (Hindi)
+  Indonesia (Indonesian)
+  Italiano (Italian)
+  日本語 (Japanese)
+  한국어 (Korean)
+  Crnogorski (Montenegrin(Latin))
+  فارسی (Persian(Farsi))
+  Polski (Polish)
+  Português (Portuguese)
+  Română (Romanian)
+  Русский (Russian)
+  Español (Spanish)
+  ภาษาไทย (Thai)
+  Türkçe (Turkish)
+  اردو (Urdu)
+  Việt (Vietnamese)
+  Contact Us
+Help
+Exit
+COMPLETE
+REVIEW
+SIGN
+Getting Started
+Personal
+Personal 1
+Personal 2
+Travel
+Travel Companions
+Previous U.S. Travel
+Address and Phone
+Passport
+U.S. Contact
+Family
+Work / Education / Training
+Security and Background
+Help: Navigation Buttons
+Click on the buttons above to access previously entered data.
+Online Nonimmigrant Visa Application (DS-160)
+Application ID AA00ELPQJV
+Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+
+This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+Copyright Information   Disclaimers   Paperwork Reduction Act   FBI Privacy Act
+(234)
+XPath: //div[1] | ID: null | Text: null
+XPath: //input[1] | ID: __LASTFOCUS | Text: null
+XPath: //input[2] | ID: __EVENTTARGET | Text: null
+XPath: //input[3] | ID: __EVENTARGUMENT | Text: null
+XPath: //input[4] | ID: __VIEWSTATE | Text: null
+XPath: //script[1] | ID: null | Text: null
+XPath: //script[2] | ID: null | Text: null
+XPath: //script[3] | ID: null | Text: null
+XPath: //script[4] | ID: null | Text: null
+XPath: //script[5] | ID: null | Text: null
+XPath: //script[6] | ID: null | Text: null
+XPath: //script[7] | ID: null | Text: null
+XPath: //script[8] | ID: null | Text: null
+XPath: //script[9] | ID: null | Text: null
+XPath: //script[10] | ID: null | Text: null
+XPath: //script[11] | ID: null | Text: null
+XPath: //script[12] | ID: null | Text: null
+XPath: //script[13] | ID: null | Text: null
+XPath: //script[14] | ID: null | Text: null
+XPath: //script[15] | ID: null | Text: null
+XPath: //script[16] | ID: null | Text: null
+XPath: //script[17] | ID: null | Text: null
+XPath: //script[18] | ID: null | Text: null
+XPath: //script[19] | ID: null | Text: null
+XPath: //script[20] | ID: null | Text: null
+XPath: //div[2] | ID: null | Text: null
+XPath: //input[1] | ID: __VIEWSTATEGENERATOR | Text: null
+XPath: //input[2] | ID: __SCROLLPOSITIONX | Text: null
+XPath: //input[3] | ID: __SCROLLPOSITIONY | Text: null
+XPath: //input[4] | ID: __VIEWSTATEENCRYPTED | Text: null
+XPath: //input[5] | ID: __PREVIOUSPAGE | Text: null
+XPath: //div[3] | ID: container | Text: Select Tooltip Language 
+  
+English
+  العربية (Arabic)
+  বাংলা (Bangla)
+  中文(简体）(Chinese-Simplified)
+  中文(繁體）(Chinese-Traditional)
+  Français (French)
+  Deutsch (German)
+  עברית (Hebrew)
+  हिन्दी (Hindi)
+  Indonesia (Indonesian)
+  Italiano (Italian)
+  日本語 (Japanese)
+  한국어 (Korean)
+  Crnogorski (Montenegrin(Latin))
+  فارسی (Persian(Farsi))
+  Polski (Polish)
+  Português (Portuguese)
+  Română (Romanian)
+  Русский (Russian)
+  Español (Spanish)
+  ภาษาไทย (Thai)
+  Türkçe (Turkish)
+  اردو (Urdu)
+  Việt (Vietnamese)
+  Contact Us
+Help
+Exit
+COMPLETE
+REVIEW
+SIGN
+Getting Started
+Personal
+Personal 1
+Personal 2
+Travel
+Travel Companions
+Previous U.S. Travel
+Address and Phone
+Passport
+U.S. Contact
+Family
+Work / Education / Training
+Security and Background
+Help: Navigation Buttons
+Click on the buttons above to access previously entered data.
+Online Nonimmigrant Visa Application (DS-160)
+Application ID AA00ELPQJV
+Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+
+This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+Copyright Information   Disclaimers   Paperwork Reduction Act   FBI Privacy Act
+(234)
+XPath: //div[1] | ID: branding | Text: null
+XPath: //div[1] | ID: branding-logo | Text: null
+XPath: //img[1] | ID: ctl00_banner | Text: null
+XPath: //map[1] | ID: ImageMapctl00_banner | Text: null
+XPath: //area[1] | ID: null | Text: null
+XPath: //hr[1] | ID: null | Text: null
+XPath: //div[2] | ID: tools | Text: Select Tooltip Language 
+  
+English
+  العربية (Arabic)
+  বাংলা (Bangla)
+  中文(简体）(Chinese-Simplified)
+  中文(繁體）(Chinese-Traditional)
+  Français (French)
+  Deutsch (German)
+  עברית (Hebrew)
+  हिन्दी (Hindi)
+  Indonesia (Indonesian)
+  Italiano (Italian)
+  日本語 (Japanese)
+  한국어 (Korean)
+  Crnogorski (Montenegrin(Latin))
+  فارسی (Persian(Farsi))
+  Polski (Polish)
+  Português (Portuguese)
+  Română (Romanian)
+  Русский (Russian)
+  Español (Spanish)
+  ภาษาไทย (Thai)
+  Türkçe (Turkish)
+  اردو (Urdu)
+  Việt (Vietnamese)
+XPath: //div[1] | ID: tools-language | Text: Select Tooltip Language 
+  
+English
+  العربية (Arabic)
+  বাংলা (Bangla)
+  中文(简体）(Chinese-Simplified)
+  中文(繁體）(Chinese-Traditional)
+  Français (French)
+  Deutsch (German)
+  עברית (Hebrew)
+  हिन्दी (Hindi)
+  Indonesia (Indonesian)
+  Italiano (Italian)
+  日本語 (Japanese)
+  한국어 (Korean)
+  Crnogorski (Montenegrin(Latin))
+  فارسی (Persian(Farsi))
+  Polski (Polish)
+  Português (Portuguese)
+  Română (Romanian)
+  Русский (Russian)
+  Español (Spanish)
+  ภาษาไทย (Thai)
+  Türkçe (Turkish)
+  اردو (Urdu)
+  Việt (Vietnamese)
+XPath: //p[1] | ID: null | Text: null
+XPath: //div[1] | ID: ctl00_pnlSelectLanguage | Text: Select Tooltip Language 
+  
+English
+  العربية (Arabic)
+  বাংলা (Bangla)
+  中文(简体）(Chinese-Simplified)
+  中文(繁體）(Chinese-Traditional)
+  Français (French)
+  Deutsch (German)
+  עברית (Hebrew)
+  हिन्दी (Hindi)
+  Indonesia (Indonesian)
+  Italiano (Italian)
+  日本語 (Japanese)
+  한국어 (Korean)
+  Crnogorski (Montenegrin(Latin))
+  فارسی (Persian(Farsi))
+  Polski (Polish)
+  Português (Portuguese)
+  Română (Romanian)
+  Русский (Russian)
+  Español (Spanish)
+  ภาษาไทย (Thai)
+  Türkçe (Turkish)
+  اردو (Urdu)
+  Việt (Vietnamese)
+XPath: //label[1] | ID: ctl00_TTLabel5 | Text: Select Tooltip Language
+XPath: //select[1] | ID: ctl00_ddlLanguage | Text: English
+  العربية (Arabic)
+  বাংলা (Bangla)
+  中文(简体）(Chinese-Simplified)
+  中文(繁體）(Chinese-Traditional)
+  Français (French)
+  Deutsch (German)
+  עברית (Hebrew)
+  हिन्दी (Hindi)
+  Indonesia (Indonesian)
+  Italiano (Italian)
+  日本語 (Japanese)
+  한국어 (Korean)
+  Crnogorski (Montenegrin(Latin))
+  فارسی (Persian(Farsi))
+  Polski (Polish)
+  Português (Portuguese)
+  Română (Romanian)
+  Русский (Russian)
+  Español (Spanish)
+  ภาษาไทย (Thai)
+  Türkçe (Turkish)
+  اردو (Urdu)
+  Việt (Vietnamese)
+XPath: //option[1] | ID: null | Text: English
+XPath: //option[2] | ID: null | Text: العربية (Arabic)
+XPath: //option[3] | ID: null | Text: বাংলা (Bangla)
+XPath: //option[4] | ID: null | Text: 中文(简体）(Chinese-Simplified)
+XPath: //option[5] | ID: null | Text: 中文(繁體）(Chinese-Traditional)
+XPath: //option[6] | ID: null | Text: Français (French)
+XPath: //option[7] | ID: null | Text: Deutsch (German)
+XPath: //option[8] | ID: null | Text: עברית (Hebrew)
+XPath: //option[9] | ID: null | Text: हिन्दी (Hindi)
+XPath: //option[10] | ID: null | Text: Indonesia (Indonesian)
+XPath: //option[11] | ID: null | Text: Italiano (Italian)
+XPath: //option[12] | ID: null | Text: 日本語 (Japanese)
+XPath: //option[13] | ID: null | Text: 한국어 (Korean)
+XPath: //option[14] | ID: null | Text: Crnogorski (Montenegrin(Latin))
+XPath: //option[15] | ID: null | Text: فارسی (Persian(Farsi))
+XPath: //option[16] | ID: null | Text: Polski (Polish)
+XPath: //option[17] | ID: null | Text: Português (Portuguese)
+XPath: //option[18] | ID: null | Text: Română (Romanian)
+XPath: //option[19] | ID: null | Text: Русский (Russian)
+XPath: //option[20] | ID: null | Text: Español (Spanish)
+XPath: //option[21] | ID: null | Text: ภาษาไทย (Thai)
+XPath: //option[22] | ID: null | Text: Türkçe (Turkish)
+XPath: //option[23] | ID: null | Text: اردو (Urdu)
+XPath: //option[24] | ID: null | Text: Việt (Vietnamese)
+XPath: //p[2] | ID: null | Text: null
+XPath: //hr[2] | ID: null | Text: null
+XPath: //div[3] | ID: nav | Text: Contact Us
+Help
+Exit
+COMPLETE
+REVIEW
+SIGN
+XPath: //div[1] | ID: nav-global | Text: Contact Us
+Help
+Exit
+XPath: //ul[1] | ID: null | Text: Contact Us
+Help
+Exit
+XPath: //li[1] | ID: null | Text: Contact Us
+XPath: //div[1] | ID: ctl00_TTPanel2 | Text: Contact Us
+XPath: //a[1] | ID: ctl00_lbtnContactUs | Text: Contact Us
+XPath: //li[2] | ID: ctl00_lbtnHelp2 | Text: Help
+XPath: //div[1] | ID: ctl00_TTPanel1 | Text: Help
+XPath: //a[1] | ID: ctl00_lbtnHelp | Text: Help
+XPath: //li[3] | ID: null | Text: Exit
+XPath: //div[1] | ID: null | Text: Exit
+XPath: //a[1] | ID: ctl00_lbtnExit | Text: Exit
+XPath: //input[1] | ID: ctl00_HDClearSession | Text: null
+XPath: //div[2] | ID: nav-main | Text: COMPLETE
+REVIEW
+SIGN
+XPath: //table[1] | ID: null | Text: COMPLETE
+REVIEW
+SIGN
+XPath: //tbody[1] | ID: null | Text: COMPLETE
+REVIEW
+SIGN
+XPath: //tr[1] | ID: null | Text: COMPLETE
+REVIEW
+SIGN
+XPath: //td[1] | ID: null | Text: COMPLETE
+XPath: //li[1] | ID: null | Text: COMPLETE
+XPath: //span[1] | ID: null | Text: COMPLETE
+XPath: //a[1] | ID: COMPLETE | Text: COMPLETE
+XPath: //td[2] | ID: null | Text: REVIEW
+XPath: //li[1] | ID: null | Text: REVIEW
+XPath: //span[1] | ID: null | Text: REVIEW
+XPath: //a[1] | ID: REVIEW | Text: REVIEW
+XPath: //td[3] | ID: null | Text: SIGN
+XPath: //li[1] | ID: null | Text: SIGN
+XPath: //span[1] | ID: null | Text: SIGN
+XPath: //a[1] | ID: ESIGN | Text: SIGN
+XPath: //hr[3] | ID: null | Text: null
+XPath: //div[4] | ID: sideNav | Text: Getting Started
+Personal
+Personal 1
+Personal 2
+Travel
+Travel Companions
+Previous U.S. Travel
+Address and Phone
+Passport
+U.S. Contact
+Family
+Work / Education / Training
+Security and Background
+Help: Navigation Buttons
+Click on the buttons above to access previously entered data.
+XPath: //div[1] | ID: hideobject | Text: Getting Started
+Personal
+Personal 1
+Personal 2
+Travel
+Travel Companions
+Previous U.S. Travel
+Address and Phone
+Passport
+U.S. Contact
+Family
+Work / Education / Training
+Security and Background
+XPath: //div[1] | ID: nav-sidebar | Text: Getting Started
+Personal
+Personal 1
+Personal 2
+Travel
+Travel Companions
+Previous U.S. Travel
+Address and Phone
+Passport
+U.S. Contact
+Family
+Work / Education / Training
+Security and Background
+XPath: //ul[1] | ID: null | Text: Getting Started
+Personal
+Personal 1
+Personal 2
+Travel
+Travel Companions
+Previous U.S. Travel
+Address and Phone
+Passport
+U.S. Contact
+Family
+Work / Education / Training
+Security and Background
+XPath: //li[1] | ID: null | Text: Getting Started
+XPath: //span[1] | ID: null | Text: Getting Started
+XPath: //a[1] | ID: GetStarted | Text: Getting Started
+XPath: //li[2] | ID: null | Text: Personal
+Personal 1
+Personal 2
+XPath: //span[1] | ID: null | Text: Personal
+XPath: //a[1] | ID: Personal | Text: Personal
+XPath: //ul[1] | ID: null | Text: Personal 1
+Personal 2
+XPath: //li[1] | ID: null | Text: Personal 1
+XPath: //span[1] | ID: null | Text: Personal 1
+XPath: //a[1] | ID: Personal1 | Text: Personal 1
+XPath: //li[2] | ID: null | Text: Personal 2
+XPath: //span[1] | ID: null | Text: Personal 2
+XPath: //a[1] | ID: Personal2 | Text: Personal 2
+XPath: //li[3] | ID: null | Text: Travel
+XPath: //span[1] | ID: null | Text: Travel
+XPath: //a[1] | ID: Travel | Text: Travel
+XPath: //li[4] | ID: null | Text: Travel Companions
+XPath: //span[1] | ID: null | Text: Travel Companions
+XPath: //a[1] | ID: TravelCompanions | Text: Travel Companions
+XPath: //li[5] | ID: null | Text: Previous U.S. Travel
+XPath: //span[1] | ID: null | Text: Previous U.S. Travel
+XPath: //a[1] | ID: PreviousUSTravel | Text: Previous U.S. Travel
+XPath: //li[6] | ID: null | Text: Address and Phone
+XPath: //span[1] | ID: null | Text: Address and Phone
+XPath: //a[1] | ID: AddressPhone | Text: Address and Phone
+XPath: //li[7] | ID: null | Text: Passport
+XPath: //span[1] | ID: null | Text: Passport
+XPath: //a[1] | ID: PptVisa | Text: Passport
+XPath: //li[8] | ID: null | Text: U.S. Contact
+XPath: //span[1] | ID: null | Text: U.S. Contact
+XPath: //a[1] | ID: USContact | Text: U.S. Contact
+XPath: //li[9] | ID: null | Text: Family
+XPath: //span[1] | ID: null | Text: Family
+XPath: //a[1] | ID: Family | Text: Family
+XPath: //li[10] | ID: null | Text: Work / Education / Training
+XPath: //span[1] | ID: null | Text: Work / Education / Training
+XPath: //a[1] | ID: WorkEducationMain | Text: Work / Education / Training
+XPath: //li[11] | ID: null | Text: Security and Background
+XPath: //span[1] | ID: null | Text: Security and Background
+XPath: //a[1] | ID: SecAndBackMain | Text: Security and Background
+XPath: //div[2] | ID: nav-sidebar-help | Text: Help: Navigation Buttons
+Click on the buttons above to access previously entered data.
+XPath: //div[1] | ID: ctl00_pnlSidebarHelp | Text: Help: Navigation Buttons
+Click on the buttons above to access previously entered data.
+XPath: //h4[1] | ID: null | Text: Help: Navigation Buttons
+XPath: //span[1] | ID: null | Text: Help:
+XPath: //span[1] | ID: ctl00_Label5 | Text: Help:
+XPath: //span[2] | ID: null | Text: Navigation Buttons
+XPath: //span[1] | ID: ctl00_Label6 | Text: Navigation Buttons
+XPath: //p[1] | ID: null | Text: Click on the buttons above to access previously entered data.
+XPath: //span[1] | ID: null | Text: Click on the buttons above to access previously entered data.
+XPath: //span[1] | ID: ctl00_Label7 | Text: Click on the buttons above to access previously entered data.
+XPath: //script[1] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_ToolTipManager1 | Text: null
+XPath: //div[1] | ID: bubble_tooltip | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //span[1] | ID: bubble_tooltip_content | Text: null
+XPath: //div[2] | ID: widebubble_tooltip | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //span[1] | ID: widebubble_tooltip_content | Text: null
+XPath: //div[5] | ID: content | Text: Online Nonimmigrant Visa Application (DS-160)
+Application ID AA00ELPQJV
+Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //div[1] | ID: content-main | Text: Online Nonimmigrant Visa Application (DS-160)
+Application ID AA00ELPQJV
+Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //div[1] | ID: ctl00_Panel1 | Text: Online Nonimmigrant Visa Application (DS-160)
+Application ID AA00ELPQJV
+XPath: //h1[1] | ID: null | Text: Online Nonimmigrant Visa Application (DS-160)
+Application ID AA00ELPQJV
+XPath: //span[1] | ID: null | Text: Online Nonimmigrant Visa Application (DS-160)
+XPath: //span[1] | ID: ctl00_Label2 | Text: Online Nonimmigrant Visa Application (DS-160)
+XPath: //span[2] | ID: null | Text: Application ID AA00ELPQJV
+XPath: //span[1] | ID: ctl00_lblAppIDLabel | Text: Application ID
+XPath: //span[2] | ID: ctl00_lblAppID | Text: AA00ELPQJV
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_HiddenPageValid | Text: null
+XPath: //table[1] | ID: ctl00_SiteContentPlaceHolder_FormView1 | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //tbody[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //tr[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //td[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //table[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //tbody[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //tr[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //td[1] | ID: null | Text: Personal Information 1
+XPath: //h2[1] | ID: null | Text: Personal Information 1
+XPath: //span[1] | ID: null | Text: Personal Information 1
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_PersonalInfoLabel | Text: Personal Information 1
+XPath: //td[2] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //br[1] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //table[1] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //tbody[1] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //tr[1] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+XPath: //td[1] | ID: null | Text: OMB CONTROL NUMBER:
+XPath: //span[1] | ID: null | Text: OMB CONTROL NUMBER:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblOMBControlNo | Text: OMB CONTROL NUMBER:
+XPath: //td[2] | ID: null | Text: 1405-0182
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblOMBControlNoValue | Text: 1405-0182
+XPath: //tr[2] | ID: null | Text: FORM NUMBER: DS-160
+XPath: //td[1] | ID: null | Text: FORM NUMBER:
+XPath: //span[1] | ID: null | Text: FORM NUMBER:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblFormNo | Text: FORM NUMBER:
+XPath: //td[2] | ID: null | Text: DS-160
+XPath: //span[1] | ID: null | Text: DS-160
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblFormNoValue | Text: DS-160
+XPath: //tr[3] | ID: null | Text: EXPIRATION DATE: 10/31/2024
+XPath: //td[1] | ID: null | Text: EXPIRATION DATE:
+XPath: //span[1] | ID: null | Text: EXPIRATION DATE:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblExpireDate | Text: EXPIRATION DATE:
+XPath: //td[2] | ID: null | Text: 10/31/2024
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblExpireDateValue | Text: 10/31/2024
+XPath: //tr[4] | ID: null | Text: ESTIMATED BURDEN: 90 MIN
+XPath: //td[1] | ID: null | Text: ESTIMATED BURDEN:
+XPath: //span[1] | ID: null | Text: ESTIMATED BURDEN:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblEstBurden | Text: ESTIMATED BURDEN:
+XPath: //td[2] | ID: null | Text: 90 MIN
+XPath: //span[1] | ID: null | Text: 90 MIN
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblEstBurdenValue | Text: 90 MIN
+XPath: //br[1] | ID: null | Text: null
+XPath: //br[2] | ID: null | Text: null
+XPath: //div[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_ValidationSummary | Text: null
+XPath: //div[2] | ID: null | Text: NOTE: Data on this page must match the information as it is written in your passport.
+XPath: //span[1] | ID: null | Text: NOTE: Data on this page must match the information as it is written in your passport.
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblPageNote1 | Text: NOTE: Data on this page must match the information as it is written in your passport.
+XPath: //div[3] | ID: null | Text: Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //fieldset[1] | ID: null | Text: Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+XPath: //div[1] | ID: null | Text: Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+XPath: //div[1] | ID: null | Text: Surnames
+(e.g., FERNANDEZ GARCIA)
+XPath: //span[1] | ID: null | Text: Surnames
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_SURNAME | Text: Surnames
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_customValSurname | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //span[3] | ID: ctl00_SiteContentPlaceHolder_FormView1_csvAddlAliases | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //br[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_SURNAME | Text: null
+XPath: //div[1] | ID: null | Text: (e.g., FERNANDEZ GARCIA)
+XPath: //span[1] | ID: null | Text: (e.g., FERNANDEZ GARCIA)
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lbl_APP_SURNAME_EXAMPLE | Text: (e.g., FERNANDEZ GARCIA)
+XPath: //div[2] | ID: null | Text: Given Names
+
+(e.g., JUAN MIGUEL)
+XPath: //span[1] | ID: null | Text: Given Names
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_GIVEN_NAME | Text: Given Names
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_CustomValGivenname | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //br[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_GIVEN_NAME | Text: null
+XPath: //br[2] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: (e.g., JUAN MIGUEL)
+XPath: //span[1] | ID: null | Text: (e.g., JUAN MIGUEL)
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_GIVEN_NAME_EXAMPLE | Text: (e.g., JUAN MIGUEL)
+XPath: //div[3] | ID: null | Text: Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+XPath: //span[1] | ID: null | Text: Full Name in Native Alphabet
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_FULL_NAME_NATIVE | Text: Full Name in Native Alphabet
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_CustomValFULLNAME_NATIVE | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_FULL_NAME_NATIVE | Text: null
+XPath: //div[1] | ID: null | Text: Does Not Apply/Technology Not Available
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_FULL_NAME_NATIVE_NA | Text: null
+XPath: //span[1] | ID: null | Text: Does Not Apply/Technology Not Available
+XPath: //span[1] | ID: null | Text: Does Not Apply/Technology Not Available
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_cbexAPP_FULL_NAME_NATIVE_NA | Text: null
+XPath: //label[1] | ID: null | Text: Does Not Apply/Technology Not Available
+XPath: //div[2] | ID: null | Text: Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+XPath: //h4[1] | ID: null | Text: Help: Surnames
+XPath: //span[1] | ID: null | Text: Help:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp | Text: Help:
+XPath: //span[2] | ID: null | Text: Surnames
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp1 | Text: Surnames
+XPath: //p[1] | ID: null | Text: Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+XPath: //span[1] | ID: null | Text: Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp2 | Text: Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+XPath: //div[3] | ID: null | Text: Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+XPath: //h4[1] | ID: null | Text: Help: Given Names
+XPath: //span[1] | ID: null | Text: Help:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp3 | Text: Help:
+XPath: //span[2] | ID: null | Text: Given Names
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp4 | Text: Given Names
+XPath: //p[1] | ID: null | Text: If your passport does not include a given name, please enter 'FNU' in Given Names.
+XPath: //span[1] | ID: null | Text: If your passport does not include a given name, please enter 'FNU' in Given Names.
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp5 | Text: If your passport does not include a given name, please enter 'FNU' in Given Names.
+XPath: //div[1] | ID: null | Text: null
+XPath: //div[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_UpdatePanel1 | Text: Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+XPath: //fieldset[1] | ID: null | Text: Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+XPath: //div[1] | ID: null | Text: Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+XPath: //div[1] | ID: null | Text: Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+XPath: //div[1] | ID: null | Text: Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+XPath: //span[1] | ID: null | Text: Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblOtherNamesUsed | Text: Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_CustomValOtehrNamesQuestion | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //div[2] | ID: null | Text: Yes No
+XPath: //div[1] | ID: null | Text: Yes No
+XPath: //div[1] | ID: null | Text: Yes No
+XPath: //span[1] | ID: null | Text: Yes No
+XPath: //span[1] | ID: null | Text: Yes No
+XPath: //table[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_rblOtherNames | Text: Yes No
+XPath: //tbody[1] | ID: null | Text: Yes No
+XPath: //tr[1] | ID: null | Text: Yes No
+XPath: //td[1] | ID: null | Text: Yes
+XPath: //span[1] | ID: null | Text: Yes
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_rblOtherNames_0 | Text: null
+XPath: //label[1] | ID: null | Text: Yes
+XPath: //td[2] | ID: null | Text: No
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_rblOtherNames_1 | Text: null
+XPath: //label[1] | ID: null | Text: No
+XPath: //div[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_divOtherNamesHelp | Text: Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+XPath: //h4[1] | ID: null | Text: Help: Other Names
+XPath: //span[1] | ID: null | Text: Help:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_Label1 | Text: Help:
+XPath: //span[2] | ID: null | Text: Other Names
+XPath: //span[1] | ID: null | Text: Other Names
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp16 | Text: Other Names
+XPath: //p[1] | ID: null | Text: Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+XPath: //span[1] | ID: null | Text: Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp17 | Text: Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+XPath: //fieldset[2] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //div[3] | ID: ctl00_SiteContentPlaceHolder_FormView1_UpdatePanel2 | Text: Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+XPath: //fieldset[1] | ID: null | Text: Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+XPath: //div[1] | ID: null | Text: Do you have a telecode that represents your name?
+Yes No
+XPath: //div[1] | ID: null | Text: Do you have a telecode that represents your name?
+Yes No
+XPath: //div[1] | ID: null | Text: Do you have a telecode that represents your name?
+XPath: //span[1] | ID: null | Text: Do you have a telecode that represents your name?
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblTelecodeQuestion | Text: Do you have a telecode that represents your name?
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_CustomValTelecodeQuestion | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //div[2] | ID: null | Text: Yes No
+XPath: //div[1] | ID: null | Text: Yes No
+XPath: //div[1] | ID: null | Text: Yes No
+XPath: //span[1] | ID: null | Text: Yes No
+XPath: //span[1] | ID: null | Text: Yes No
+XPath: //table[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_rblTelecodeQuestion | Text: Yes No
+XPath: //tbody[1] | ID: null | Text: Yes No
+XPath: //tr[1] | ID: null | Text: Yes No
+XPath: //td[1] | ID: null | Text: Yes
+XPath: //span[1] | ID: null | Text: Yes
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_rblTelecodeQuestion_0 | Text: null
+XPath: //label[1] | ID: null | Text: Yes
+XPath: //td[2] | ID: null | Text: No
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_rblTelecodeQuestion_1 | Text: null
+XPath: //label[1] | ID: null | Text: No
+XPath: //div[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_telecodeHelpDiv | Text: Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+XPath: //h4[1] | ID: null | Text: Help: Telecode
+XPath: //span[1] | ID: null | Text: Help:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_Label6 | Text: Help:
+XPath: //span[2] | ID: null | Text: Telecode
+XPath: //span[1] | ID: null | Text: Telecode
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_Label7 | Text: Telecode
+XPath: //p[1] | ID: null | Text: Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+XPath: //span[1] | ID: null | Text: Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_Label8 | Text: Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+XPath: //fieldset[2] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //div[4] | ID: null | Text: null
+XPath: //fieldset[2] | ID: null | Text: Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+XPath: //div[1] | ID: null | Text: Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+XPath: //div[1] | ID: null | Text: Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+XPath: //span[1] | ID: null | Text: Sex
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_GENDER | Text: Sex
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_CustomValidatorSex | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //br[1] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: - SELECT ONE -
+   MALE
+   FEMALE
+XPath: //span[1] | ID: null | Text: - SELECT ONE -
+   MALE
+   FEMALE
+XPath: //span[1] | ID: null | Text: - SELECT ONE -
+   MALE
+   FEMALE
+XPath: //select[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_GENDER | Text: - SELECT ONE -
+   MALE
+   FEMALE
+XPath: //option[1] | ID: null | Text: - SELECT ONE -
+XPath: //option[2] | ID: null | Text: MALE
+XPath: //option[3] | ID: null | Text: FEMALE
+XPath: //div[2] | ID: null | Text: Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+XPath: //div[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_UpdatePanel3 | Text: Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+XPath: //span[1] | ID: null | Text: Marital Status
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_MARITAL_STATUS | Text: Marital Status
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_HelpButton1 | Text: null
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_CustomValidatorMarital | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //select[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_MARITAL_STATUS | Text: -SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+XPath: //option[1] | ID: null | Text: -SELECT ONE-
+XPath: //option[2] | ID: null | Text: MARRIED
+XPath: //option[3] | ID: null | Text: COMMON LAW MARRIAGE
+XPath: //option[4] | ID: null | Text: CIVIL UNION/DOMESTIC PARTNERSHIP
+XPath: //option[5] | ID: null | Text: SINGLE
+XPath: //option[6] | ID: null | Text: WIDOWED
+XPath: //option[7] | ID: null | Text: DIVORCED
+XPath: //option[8] | ID: null | Text: LEGALLY SEPARATED
+XPath: //option[9] | ID: null | Text: OTHER
+XPath: //div[2] | ID: null | Text: Help: Sex
+Please select MALE or FEMALE
+XPath: //h4[1] | ID: null | Text: Help: Sex
+XPath: //span[1] | ID: null | Text: Help:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_Label11 | Text: Help:
+XPath: //span[2] | ID: null | Text: Sex
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_Label12 | Text: Sex
+XPath: //p[1] | ID: null | Text: Please select MALE or FEMALE
+XPath: //span[1] | ID: null | Text: Please select MALE or FEMALE
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_Label13 | Text: Please select MALE or FEMALE
+XPath: //div[5] | ID: null | Text: null
+XPath: //fieldset[3] | ID: null | Text: Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+XPath: //div[1] | ID: null | Text: Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+XPath: //h4[1] | ID: null | Text: Date and Place of Birth
+XPath: //span[1] | ID: null | Text: Date and Place of Birth
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblDatePlaceOfBirth | Text: Date and Place of Birth
+XPath: //div[1] | ID: null | Text: Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+XPath: //span[1] | ID: null | Text: Date
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_DOB | Text: Date
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_HelpButton2 | Text: null
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_customValDOB | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: 01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+XPath: //div[1] | ID: null | Text: 01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+XPath: //select[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_ddlDOBDay | Text: 01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+XPath: //option[1] | ID: null | Text: null
+XPath: //option[2] | ID: null | Text: 01
+XPath: //option[3] | ID: null | Text: 02
+XPath: //option[4] | ID: null | Text: 03
+XPath: //option[5] | ID: null | Text: 04
+XPath: //option[6] | ID: null | Text: 05
+XPath: //option[7] | ID: null | Text: 06
+XPath: //option[8] | ID: null | Text: 07
+XPath: //option[9] | ID: null | Text: 08
+XPath: //option[10] | ID: null | Text: 09
+XPath: //option[11] | ID: null | Text: 10
+XPath: //option[12] | ID: null | Text: 11
+XPath: //option[13] | ID: null | Text: 12
+XPath: //option[14] | ID: null | Text: 13
+XPath: //option[15] | ID: null | Text: 14
+XPath: //option[16] | ID: null | Text: 15
+XPath: //option[17] | ID: null | Text: 16
+XPath: //option[18] | ID: null | Text: 17
+XPath: //option[19] | ID: null | Text: 18
+XPath: //option[20] | ID: null | Text: 19
+XPath: //option[21] | ID: null | Text: 20
+XPath: //option[22] | ID: null | Text: 21
+XPath: //option[23] | ID: null | Text: 22
+XPath: //option[24] | ID: null | Text: 23
+XPath: //option[25] | ID: null | Text: 24
+XPath: //option[26] | ID: null | Text: 25
+XPath: //option[27] | ID: null | Text: 26
+XPath: //option[28] | ID: null | Text: 27
+XPath: //option[29] | ID: null | Text: 28
+XPath: //option[30] | ID: null | Text: 29
+XPath: //option[31] | ID: null | Text: 30
+XPath: //option[32] | ID: null | Text: 31
+XPath: //select[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_ddlDOBMonth | Text: JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+XPath: //option[1] | ID: null | Text: null
+XPath: //option[2] | ID: null | Text: JAN
+XPath: //option[3] | ID: null | Text: FEB
+XPath: //option[4] | ID: null | Text: MAR
+XPath: //option[5] | ID: null | Text: APR
+XPath: //option[6] | ID: null | Text: MAY
+XPath: //option[7] | ID: null | Text: JUN
+XPath: //option[8] | ID: null | Text: JUL
+XPath: //option[9] | ID: null | Text: AUG
+XPath: //option[10] | ID: null | Text: SEP
+XPath: //option[11] | ID: null | Text: OCT
+XPath: //option[12] | ID: null | Text: NOV
+XPath: //option[13] | ID: null | Text: DEC
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_tbxDOBYear | Text: null
+XPath: //div[1] | ID: null | Text: (Format: DD-MMM-YYYY)
+XPath: //span[1] | ID: null | Text: (Format: DD-MMM-YYYY)
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblDateFormat | Text: (Format: DD-MMM-YYYY)
+XPath: //br[1] | ID: null | Text: null
+XPath: //div[2] | ID: null | Text: City
+XPath: //span[1] | ID: null | Text: City
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_POB_CITY | Text: City
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_CustomValidator1POBCity | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_POB_CITY | Text: null
+XPath: //div[3] | ID: null | Text: State/Province
+Does Not Apply
+XPath: //span[1] | ID: null | Text: State/Province
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_POB_ST_PROVINCE | Text: State/Province
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_cvrPOBStateProv | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_POB_ST_PROVINCE | Text: null
+XPath: //div[1] | ID: null | Text: Does Not Apply
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_POB_ST_PROVINCE_NA | Text: null
+XPath: //span[1] | ID: null | Text: Does Not Apply
+XPath: //span[1] | ID: null | Text: Does Not Apply
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_cbexAPP_POB_ST_PROVINCE_NA | Text: null
+XPath: //label[1] | ID: null | Text: Does Not Apply
+XPath: //span[1] | ID: null | Text: Country/Region
+XPath: //label[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblAPP_POB_CNTRY | Text: Country/Region
+XPath: //span[2] | ID: ctl00_SiteContentPlaceHolder_FormView1_CustomValidatorPOB | Text: null
+XPath: //img[1] | ID: null | Text: null
+XPath: //select[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_POB_CNTRY | Text: - SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+XPath: //option[1] | ID: null | Text: - SELECT ONE -
+XPath: //option[2] | ID: null | Text: AFGHANISTAN
+XPath: //option[3] | ID: null | Text: ALBANIA
+XPath: //option[4] | ID: null | Text: ALGERIA
+XPath: //option[5] | ID: null | Text: AMERICAN SAMOA
+XPath: //option[6] | ID: null | Text: ANDORRA
+XPath: //option[7] | ID: null | Text: ANGOLA
+XPath: //option[8] | ID: null | Text: ANGUILLA
+XPath: //option[9] | ID: null | Text: ANTIGUA AND BARBUDA
+XPath: //option[10] | ID: null | Text: ARGENTINA
+XPath: //option[11] | ID: null | Text: ARMENIA
+XPath: //option[12] | ID: null | Text: ARUBA
+XPath: //option[13] | ID: null | Text: AT SEA
+XPath: //option[14] | ID: null | Text: AUSTRALIA
+XPath: //option[15] | ID: null | Text: AUSTRIA
+XPath: //option[16] | ID: null | Text: AZERBAIJAN
+XPath: //option[17] | ID: null | Text: BAHAMAS
+XPath: //option[18] | ID: null | Text: BAHRAIN
+XPath: //option[19] | ID: null | Text: BANGLADESH
+XPath: //option[20] | ID: null | Text: BARBADOS
+XPath: //option[21] | ID: null | Text: BELARUS
+XPath: //option[22] | ID: null | Text: BELGIUM
+XPath: //option[23] | ID: null | Text: BELIZE
+XPath: //option[24] | ID: null | Text: BENIN
+XPath: //option[25] | ID: null | Text: BERMUDA
+XPath: //option[26] | ID: null | Text: BHUTAN
+XPath: //option[27] | ID: null | Text: BOLIVIA
+XPath: //option[28] | ID: null | Text: BOSNIA-HERZEGOVINA
+XPath: //option[29] | ID: null | Text: BOTSWANA
+XPath: //option[30] | ID: null | Text: BRAZIL
+XPath: //option[31] | ID: null | Text: BRITISH INDIAN OCEAN TERRITORY
+XPath: //option[32] | ID: null | Text: BRUNEI
+XPath: //option[33] | ID: null | Text: BULGARIA
+XPath: //option[34] | ID: null | Text: BURKINA FASO
+XPath: //option[35] | ID: null | Text: BURMA
+XPath: //option[36] | ID: null | Text: BURUNDI
+XPath: //option[37] | ID: null | Text: CAMBODIA
+XPath: //option[38] | ID: null | Text: CAMEROON
+XPath: //option[39] | ID: null | Text: CANADA
+XPath: //option[40] | ID: null | Text: CABO VERDE
+XPath: //option[41] | ID: null | Text: CAYMAN ISLANDS
+XPath: //option[42] | ID: null | Text: CENTRAL AFRICAN REPUBLIC
+XPath: //option[43] | ID: null | Text: CHAD
+XPath: //option[44] | ID: null | Text: CHILE
+XPath: //option[45] | ID: null | Text: CHINA
+XPath: //option[46] | ID: null | Text: CHRISTMAS ISLAND
+XPath: //option[47] | ID: null | Text: COCOS KEELING ISLANDS
+XPath: //option[48] | ID: null | Text: COLOMBIA
+XPath: //option[49] | ID: null | Text: COMOROS
+XPath: //option[50] | ID: null | Text: CONGO, DEMOCRATIC REPUBLIC OF THE
+XPath: //option[51] | ID: null | Text: CONGO, REPUBLIC OF THE
+XPath: //option[52] | ID: null | Text: COOK ISLANDS
+XPath: //option[53] | ID: null | Text: COSTA RICA
+XPath: //option[54] | ID: null | Text: COTE D`IVOIRE
+XPath: //option[55] | ID: null | Text: CROATIA
+XPath: //option[56] | ID: null | Text: CUBA
+XPath: //option[57] | ID: null | Text: CURACAO
+XPath: //option[58] | ID: null | Text: CYPRUS
+XPath: //option[59] | ID: null | Text: CZECH REPUBLIC
+XPath: //option[60] | ID: null | Text: DENMARK
+XPath: //option[61] | ID: null | Text: DJIBOUTI
+XPath: //option[62] | ID: null | Text: DOMINICA
+XPath: //option[63] | ID: null | Text: DOMINICAN REPUBLIC
+XPath: //option[64] | ID: null | Text: ECUADOR
+XPath: //option[65] | ID: null | Text: EGYPT
+XPath: //option[66] | ID: null | Text: EL SALVADOR
+XPath: //option[67] | ID: null | Text: EQUATORIAL GUINEA
+XPath: //option[68] | ID: null | Text: ERITREA
+XPath: //option[69] | ID: null | Text: ESTONIA
+XPath: //option[70] | ID: null | Text: ESWATINI
+XPath: //option[71] | ID: null | Text: ETHIOPIA
+XPath: //option[72] | ID: null | Text: FALKLAND ISLANDS
+XPath: //option[73] | ID: null | Text: FAROE ISLANDS
+XPath: //option[74] | ID: null | Text: FIJI
+XPath: //option[75] | ID: null | Text: FINLAND
+XPath: //option[76] | ID: null | Text: FRANCE
+XPath: //option[77] | ID: null | Text: FRENCH POLYNESIA
+XPath: //option[78] | ID: null | Text: FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+XPath: //option[79] | ID: null | Text: GABON
+XPath: //option[80] | ID: null | Text: GAMBIA, THE
+XPath: //option[81] | ID: null | Text: GAZA STRIP
+XPath: //option[82] | ID: null | Text: GEORGIA
+XPath: //option[83] | ID: null | Text: GERMANY
+XPath: //option[84] | ID: null | Text: GHANA
+XPath: //option[85] | ID: null | Text: GIBRALTAR
+XPath: //option[86] | ID: null | Text: GREECE
+XPath: //option[87] | ID: null | Text: GREENLAND
+XPath: //option[88] | ID: null | Text: GRENADA
+XPath: //option[89] | ID: null | Text: GUAM
+XPath: //option[90] | ID: null | Text: GUATEMALA
+XPath: //option[91] | ID: null | Text: GUINEA
+XPath: //option[92] | ID: null | Text: GUINEA - BISSAU
+XPath: //option[93] | ID: null | Text: GUYANA
+XPath: //option[94] | ID: null | Text: HAITI
+XPath: //option[95] | ID: null | Text: HEARD AND MCDONALD ISLANDS
+XPath: //option[96] | ID: null | Text: HOLY SEE (VATICAN CITY)
+XPath: //option[97] | ID: null | Text: HONDURAS
+XPath: //option[98] | ID: null | Text: HONG KONG BNO
+XPath: //option[99] | ID: null | Text: HONG KONG SAR
+XPath: //option[100] | ID: null | Text: HOWLAND ISLAND
+XPath: //option[101] | ID: null | Text: HUNGARY
+XPath: //option[102] | ID: null | Text: ICELAND
+XPath: //option[103] | ID: null | Text: IN THE AIR
+XPath: //option[104] | ID: null | Text: INDIA
+XPath: //option[105] | ID: null | Text: INDONESIA
+XPath: //option[106] | ID: null | Text: IRAN
+XPath: //option[107] | ID: null | Text: IRAQ
+XPath: //option[108] | ID: null | Text: IRELAND
+XPath: //option[109] | ID: null | Text: ISRAEL
+XPath: //option[110] | ID: null | Text: ITALY
+XPath: //option[111] | ID: null | Text: JAMAICA
+XPath: //option[112] | ID: null | Text: JAPAN
+XPath: //option[113] | ID: null | Text: JERUSALEM
+XPath: //option[114] | ID: null | Text: JORDAN
+XPath: //option[115] | ID: null | Text: KAZAKHSTAN
+XPath: //option[116] | ID: null | Text: KENYA
+XPath: //option[117] | ID: null | Text: KIRIBATI
+XPath: //option[118] | ID: null | Text: KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+XPath: //option[119] | ID: null | Text: KOREA, REPUBLIC OF (SOUTH)
+XPath: //option[120] | ID: null | Text: KOSOVO
+XPath: //option[121] | ID: null | Text: KUWAIT
+XPath: //option[122] | ID: null | Text: KYRGYZSTAN
+XPath: //option[123] | ID: null | Text: LAOS
+XPath: //option[124] | ID: null | Text: LATVIA
+XPath: //option[125] | ID: null | Text: LEBANON
+XPath: //option[126] | ID: null | Text: LESOTHO
+XPath: //option[127] | ID: null | Text: LIBERIA
+XPath: //option[128] | ID: null | Text: LIBYA
+XPath: //option[129] | ID: null | Text: LIECHTENSTEIN
+XPath: //option[130] | ID: null | Text: LITHUANIA
+XPath: //option[131] | ID: null | Text: LUXEMBOURG
+XPath: //option[132] | ID: null | Text: MACAU
+XPath: //option[133] | ID: null | Text: MACEDONIA, NORTH
+XPath: //option[134] | ID: null | Text: MADAGASCAR
+XPath: //option[135] | ID: null | Text: MALAWI
+XPath: //option[136] | ID: null | Text: MALAYSIA
+XPath: //option[137] | ID: null | Text: MALDEN ISLAND
+XPath: //option[138] | ID: null | Text: MALDIVES
+XPath: //option[139] | ID: null | Text: MALI
+XPath: //option[140] | ID: null | Text: MALTA
+XPath: //option[141] | ID: null | Text: MARSHALL ISLANDS
+XPath: //option[142] | ID: null | Text: MAURITANIA
+XPath: //option[143] | ID: null | Text: MAURITIUS
+XPath: //option[144] | ID: null | Text: MAYOTTE
+XPath: //option[145] | ID: null | Text: MEXICO - AGUASCALIENTES
+XPath: //option[146] | ID: null | Text: MEXICO - BAJA CALIFORNIA NORTE
+XPath: //option[147] | ID: null | Text: MEXICO - BAJA CALIFORNIA SUR
+XPath: //option[148] | ID: null | Text: MEXICO - CAMPECHE
+XPath: //option[149] | ID: null | Text: MEXICO - CHIAPAS
+XPath: //option[150] | ID: null | Text: MEXICO - CHIHUAHUA
+XPath: //option[151] | ID: null | Text: MEXICO - COAHUILA
+XPath: //option[152] | ID: null | Text: MEXICO - COLIMA
+XPath: //option[153] | ID: null | Text: MEXICO - DISTRITO FEDERAL
+XPath: //option[154] | ID: null | Text: MEXICO - DURANGO
+XPath: //option[155] | ID: null | Text: MEXICO - GUANAJUATO
+XPath: //option[156] | ID: null | Text: MEXICO - GUERRERO
+XPath: //option[157] | ID: null | Text: MEXICO - HIDALGO
+XPath: //option[158] | ID: null | Text: MEXICO - JALISCO
+XPath: //option[159] | ID: null | Text: MEXICO - MICHOACAN
+XPath: //option[160] | ID: null | Text: MEXICO - MORELOS
+XPath: //option[161] | ID: null | Text: MEXICO - NAYARIT
+XPath: //option[162] | ID: null | Text: MEXICO - NUEVO LEON
+XPath: //option[163] | ID: null | Text: MEXICO - OAXACA
+XPath: //option[164] | ID: null | Text: MEXICO - PUEBLA
+XPath: //option[165] | ID: null | Text: MEXICO - QUERETARO
+XPath: //option[166] | ID: null | Text: MEXICO - QUINTANA ROO
+XPath: //option[167] | ID: null | Text: MEXICO - SAN LUIS POTOSI
+XPath: //option[168] | ID: null | Text: MEXICO - SINALOA
+XPath: //option[169] | ID: null | Text: MEXICO - SONORA
+XPath: //option[170] | ID: null | Text: MEXICO - STATE OF MEXICO
+XPath: //option[171] | ID: null | Text: MEXICO - TABASCO
+XPath: //option[172] | ID: null | Text: MEXICO - TAMAULIPAS
+XPath: //option[173] | ID: null | Text: MEXICO - TLAXCALA
+XPath: //option[174] | ID: null | Text: MEXICO - VERACRUZ
+XPath: //option[175] | ID: null | Text: MEXICO - YUCATAN
+XPath: //option[176] | ID: null | Text: MEXICO - ZACATECAS
+XPath: //option[177] | ID: null | Text: MICRONESIA
+XPath: //option[178] | ID: null | Text: MIDWAY ISLANDS
+XPath: //option[179] | ID: null | Text: MOLDOVA
+XPath: //option[180] | ID: null | Text: MONACO
+XPath: //option[181] | ID: null | Text: MONGOLIA
+XPath: //option[182] | ID: null | Text: MONTENEGRO
+XPath: //option[183] | ID: null | Text: MONTSERRAT
+XPath: //option[184] | ID: null | Text: MOROCCO
+XPath: //option[185] | ID: null | Text: MOZAMBIQUE
+XPath: //option[186] | ID: null | Text: NAMIBIA
+XPath: //option[187] | ID: null | Text: NAURU
+XPath: //option[188] | ID: null | Text: NEPAL
+XPath: //option[189] | ID: null | Text: NETHERLANDS
+XPath: //option[190] | ID: null | Text: NEW CALEDONIA
+XPath: //option[191] | ID: null | Text: NEW ZEALAND
+XPath: //option[192] | ID: null | Text: NICARAGUA
+XPath: //option[193] | ID: null | Text: NIGER
+XPath: //option[194] | ID: null | Text: NIGERIA
+XPath: //option[195] | ID: null | Text: NIUE
+XPath: //option[196] | ID: null | Text: NORFOLK ISLAND
+XPath: //option[197] | ID: null | Text: NORTH MARIANA ISLANDS
+XPath: //option[198] | ID: null | Text: NORTHERN IRELAND
+XPath: //option[199] | ID: null | Text: NORWAY
+XPath: //option[200] | ID: null | Text: OMAN
+XPath: //option[201] | ID: null | Text: PAKISTAN
+XPath: //option[202] | ID: null | Text: PALAU
+XPath: //option[203] | ID: null | Text: PALMYRA ATOLL
+XPath: //option[204] | ID: null | Text: PANAMA
+XPath: //option[205] | ID: null | Text: PAPUA NEW GUINEA
+XPath: //option[206] | ID: null | Text: PARAGUAY
+XPath: //option[207] | ID: null | Text: PERU
+XPath: //option[208] | ID: null | Text: PHILIPPINES
+XPath: //option[209] | ID: null | Text: PITCAIRN ISLANDS
+XPath: //option[210] | ID: null | Text: POLAND
+XPath: //option[211] | ID: null | Text: PORTUGAL
+XPath: //option[212] | ID: null | Text: PUERTO RICO
+XPath: //option[213] | ID: null | Text: QATAR
+XPath: //option[214] | ID: null | Text: ROMANIA
+XPath: //option[215] | ID: null | Text: RUSSIA
+XPath: //option[216] | ID: null | Text: RWANDA
+XPath: //option[217] | ID: null | Text: SAINT MARTIN
+XPath: //option[218] | ID: null | Text: SAMOA
+XPath: //option[219] | ID: null | Text: SAN MARINO
+XPath: //option[220] | ID: null | Text: SAO TOME AND PRINCIPE
+XPath: //option[221] | ID: null | Text: SAUDI ARABIA
+XPath: //option[222] | ID: null | Text: SENEGAL
+XPath: //option[223] | ID: null | Text: SERBIA
+XPath: //option[224] | ID: null | Text: SEYCHELLES
+XPath: //option[225] | ID: null | Text: SIERRA LEONE
+XPath: //option[226] | ID: null | Text: SINGAPORE
+XPath: //option[227] | ID: null | Text: SINT MAARTEN
+XPath: //option[228] | ID: null | Text: SLOVAKIA
+XPath: //option[229] | ID: null | Text: SLOVENIA
+XPath: //option[230] | ID: null | Text: SOLOMON ISLANDS
+XPath: //option[231] | ID: null | Text: SOMALIA
+XPath: //option[232] | ID: null | Text: SOUTH AFRICA
+XPath: //option[233] | ID: null | Text: SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+XPath: //option[234] | ID: null | Text: SOUTH SUDAN
+XPath: //option[235] | ID: null | Text: SPAIN
+XPath: //option[236] | ID: null | Text: SRI LANKA
+XPath: //option[237] | ID: null | Text: ST. BARTHELEMY
+XPath: //option[238] | ID: null | Text: ST. HELENA
+XPath: //option[239] | ID: null | Text: ST. KITTS AND NEVIS
+XPath: //option[240] | ID: null | Text: ST. LUCIA
+XPath: //option[241] | ID: null | Text: ST. PIERRE AND MIQUELON
+XPath: //option[242] | ID: null | Text: ST. VINCENT AND THE GRENADINES
+XPath: //option[243] | ID: null | Text: SUDAN
+XPath: //option[244] | ID: null | Text: SURINAME
+XPath: //option[245] | ID: null | Text: SVALBARD
+XPath: //option[246] | ID: null | Text: SWEDEN
+XPath: //option[247] | ID: null | Text: SWITZERLAND
+XPath: //option[248] | ID: null | Text: SYRIA
+XPath: //option[249] | ID: null | Text: TAIWAN
+XPath: //option[250] | ID: null | Text: TAJIKISTAN
+XPath: //option[251] | ID: null | Text: TANZANIA
+XPath: //option[252] | ID: null | Text: THAILAND
+XPath: //option[253] | ID: null | Text: TIMOR-LESTE
+XPath: //option[254] | ID: null | Text: TOGO
+XPath: //option[255] | ID: null | Text: TOKELAU
+XPath: //option[256] | ID: null | Text: TONGA
+XPath: //option[257] | ID: null | Text: TRINIDAD AND TOBAGO
+XPath: //option[258] | ID: null | Text: TUNISIA
+XPath: //option[259] | ID: null | Text: TURKEY
+XPath: //option[260] | ID: null | Text: TURKMENISTAN
+XPath: //option[261] | ID: null | Text: TURKS AND CAICOS ISLANDS
+XPath: //option[262] | ID: null | Text: TUVALU
+XPath: //option[263] | ID: null | Text: UGANDA
+XPath: //option[264] | ID: null | Text: UKRAINE
+XPath: //option[265] | ID: null | Text: UNITED ARAB EMIRATES
+XPath: //option[266] | ID: null | Text: UNITED KINGDOM
+XPath: //option[267] | ID: null | Text: UNITED STATES OF AMERICA
+XPath: //option[268] | ID: null | Text: URUGUAY
+XPath: //option[269] | ID: null | Text: UZBEKISTAN
+XPath: //option[270] | ID: null | Text: VANUATU
+XPath: //option[271] | ID: null | Text: VENEZUELA
+XPath: //option[272] | ID: null | Text: VIETNAM
+XPath: //option[273] | ID: null | Text: VIRGIN ISLANDS (U.S.)
+XPath: //option[274] | ID: null | Text: VIRGIN ISLANDS, BRITISH
+XPath: //option[275] | ID: null | Text: WAKE ISLAND
+XPath: //option[276] | ID: null | Text: WALLIS AND FUTUNA ISLANDS
+XPath: //option[277] | ID: null | Text: WEST BANK
+XPath: //option[278] | ID: null | Text: WESTERN SAHARA
+XPath: //option[279] | ID: null | Text: YEMEN
+XPath: //option[280] | ID: null | Text: ZAMBIA
+XPath: //option[281] | ID: null | Text: ZIMBABWE
+XPath: //div[2] | ID: null | Text: Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+XPath: //h4[1] | ID: null | Text: Help: Date of Birth
+XPath: //span[1] | ID: null | Text: Help:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_Label4 | Text: Help:
+XPath: //span[2] | ID: null | Text: Date of Birth
+XPath: //span[1] | ID: null | Text: Date of Birth
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp7 | Text: Date of Birth
+XPath: //p[1] | ID: null | Text: If day or month is unknown, enter as shown in passport.
+XPath: //span[1] | ID: null | Text: If day or month is unknown, enter as shown in passport.
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp8 | Text: If day or month is unknown, enter as shown in passport.
+XPath: //div[3] | ID: null | Text: Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+XPath: //h4[1] | ID: null | Text: Help: Country/Region
+XPath: //span[1] | ID: null | Text: Help:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_Label5 | Text: Help:
+XPath: //span[2] | ID: null | Text: Country/Region
+XPath: //span[1] | ID: null | Text: Country/Region
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp10 | Text: Country/Region
+XPath: //p[1] | ID: null | Text: Select the name that is currently in use for the place where you were born.
+XPath: //span[1] | ID: null | Text: Select the name that is currently in use for the place where you were born.
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblHelp11 | Text: Select the name that is currently in use for the place where you were born.
+XPath: //div[6] | ID: null | Text: null
+XPath: //div[7] | ID: null | Text: Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //span[1] | ID: null | Text: Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblPublicBurdenNotice | Text: Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to:
+XPath: //b[1] | ID: null | Text: PRA_BurdenComments@state.gov
+XPath: //span[1] | ID: null | Text: PRA_BurdenComments@state.gov
+XPath: //a[1] | ID: null | Text: PRA_BurdenComments@state.gov
+XPath: //br[1] | ID: null | Text: null
+XPath: //br[2] | ID: null | Text: null
+XPath: //span[2] | ID: null | Text: Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblPaperworkReductionNotice | Text: Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //b[1] | ID: null | Text: Confidentiality Statement
+XPath: //br[1] | ID: null | Text: null
+XPath: //br[1] | ID: null | Text: null
+XPath: //div[2] | ID: null | Text: null
+XPath: //fieldset[1] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //span[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_UpdateButton1 | Text: null
+XPath: //span[2] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_UpdateButton2 | Text: null
+XPath: //span[3] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_SiteContentPlaceHolder_UpdateButton3 | Text: null
+XPath: //div[6] | ID: ctl00_pnlSiteInfo | Text: This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+Copyright Information   Disclaimers   Paperwork Reduction Act   FBI Privacy Act
+(234)
+XPath: //div[1] | ID: ctl00_siteInfo_pnlSiteInfo | Text: This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+Copyright Information   Disclaimers   Paperwork Reduction Act   FBI Privacy Act
+(234)
+XPath: //div[1] | ID: siteinfo | Text: This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+Copyright Information   Disclaimers   Paperwork Reduction Act   FBI Privacy Act
+(234)
+XPath: //div[1] | ID: siteinfo-legal | Text: This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+Copyright Information   Disclaimers   Paperwork Reduction Act   FBI Privacy Act
+(234)
+XPath: //p[1] | ID: null | Text: This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+Copyright Information   Disclaimers   Paperwork Reduction Act   FBI Privacy Act
+(234)
+XPath: //span[1] | ID: ctl00_siteInfo_siteinfoLabelToolTip | Text: This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+XPath: //span[1] | ID: ctl00_siteInfo_siteinfoLabel | Text: This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not be construed as an endorsement of the views contained therein.
+XPath: //br[1] | ID: null | Text: null
+XPath: //span[2] | ID: ctl00_siteInfo_hplCopyrightToolTip | Text: Copyright Information
+XPath: //a[1] | ID: ctl00_siteInfo_hplCopyright | Text: Copyright Information
+XPath: //span[3] | ID: ctl00_siteInfo_hplDisclaimersToolTip | Text: Disclaimers
+XPath: //a[1] | ID: ctl00_siteInfo_hplDisclaimers | Text: Disclaimers
+XPath: //span[4] | ID: ctl00_siteInfo_hplPaperworkReductionToolTip | Text: Paperwork Reduction Act
+XPath: //a[1] | ID: ctl00_siteInfo_hplPaperworkReduction | Text: Paperwork Reduction Act
+XPath: //span[5] | ID: ctl00_siteInfo_hplFbiPrivacyActToolTip | Text: FBI Privacy Act
+XPath: //a[1] | ID: ctl00_siteInfo_hplFbiPrivacyAct | Text: FBI Privacy Act
+XPath: //span[6] | ID: null | Text: (234)
+XPath: //span[1] | ID: ctl00_siteInfo_lblIP | Text: (234)
+XPath: //br[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_btnModalHolder | Text: null
+XPath: //div[4] | ID: warning_foregroundElement | Text: null
+XPath: //div[1] | ID: ctl00_pnlWarning | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_TTLabel1Warning | Text: null
+XPath: //br[1] | ID: null | Text: null
+XPath: //br[2] | ID: null | Text: null
+XPath: //div[2] | ID: null | Text: null
+XPath: //span[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_btnWarning | Text: null
+XPath: //div[5] | ID: timeout_foregroundElement | Text: null
+XPath: //div[1] | ID: ctl00_pnlTimeout | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_TTLabelTimeout | Text: null
+XPath: //ul[1] | ID: null | Text: null
+XPath: //li[1] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_TTLabel1 | Text: null
+XPath: //span[2] | ID: ctl00_lblRecoveryAppID | Text: null
+XPath: //li[2] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_TTLabel2 | Text: null
+XPath: //li[3] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_TTLabel3 | Text: null
+XPath: //li[4] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_TTLabel4 | Text: null
+XPath: //br[1] | ID: null | Text: null
+XPath: //br[2] | ID: null | Text: null
+XPath: //div[2] | ID: null | Text: null
+XPath: //span[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_btnRecover | Text: null
+XPath: //div[6] | ID: modalSave_foregroundElement | Text: null
+XPath: //div[1] | ID: ctl00_pnlSaveWarning | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_lblWarning | Text: null
+XPath: //div[2] | ID: null | Text: null
+XPath: //span[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_btnOkWarning | Text: null
+XPath: //div[3] | ID: null | Text: null
+XPath: //span[1] | ID: null | Text: null
+XPath: //input[1] | ID: null | Text: null
+XPath: //div[4] | ID: null | Text: null
+XPath: //span[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_btnCancelWarning | Text: null
+XPath: //div[7] | ID: modalExitWarning_foregroundElement | Text: null
+XPath: //div[1] | ID: ctl00_pnlExitWarning | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_lblExitWarning | Text: null
+XPath: //div[2] | ID: null | Text: null
+XPath: //table[1] | ID: null | Text: null
+XPath: //tbody[1] | ID: null | Text: null
+XPath: //tr[1] | ID: null | Text: null
+XPath: //td[1] | ID: null | Text: null
+XPath: //span[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_btnClientExit | Text: null
+XPath: //td[2] | ID: null | Text: null
+XPath: //td[3] | ID: null | Text: null
+XPath: //span[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_btnCancelExitWarning | Text: null
+XPath: //div[8] | ID: ctl00_ucNavigateOption_ucNavPanel_updConfirm | Text: null
+XPath: //div[1] | ID: ctl00_ucNavigateOption_ucNavPanel_modalConfirm_foregroundElement | Text: null
+XPath: //div[1] | ID: ctl00_ucNavigateOption_ucNavPanel_pnlMessage | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: null
+XPath: //span[1] | ID: ctl00_ucNavigateOption_ucNavPanel_ctl01_lblNavigate | Text: null
+XPath: //br[1] | ID: null | Text: null
+XPath: //div[2] | ID: ctl00_ucNavigateOption_ucNavPanel_ctl01_completeButtons | Text: null
+XPath: //span[1] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_ucNavigateOption_ucNavPanel_ctl01_btnReviewPage | Text: null
+XPath: //span[2] | ID: null | Text: null
+XPath: //input[1] | ID: ctl00_ucNavigateOption_ucNavPanel_ctl01_btnNextPageComplete | Text: null
+XPath: //a[1] | ID: ctl00_ucNavigateOption_ucNavPanel_anchorModalActivate | Text: null
+XPath: //div[2] | ID: ctl00_ucNavigateOption_ucNavPanel_modalConfirm_backgroundElement | Text: null
+XPath: //input[2] | ID: ctl00_HiddenSideBarItemClicked | Text: null
+XPath: //a[1] | ID: ctl00_anchorModalActivate | Text: null
+XPath: //script[21] | ID: null | Text: null
+XPath: //script[22] | ID: null | Text: null
+XPath: //script[23] | ID: null | Text: null
+XPath: //div[9] | ID: warning_backgroundElement | Text: null
+XPath: //div[10] | ID: timeout_backgroundElement | Text: null
+XPath: //div[11] | ID: modalSave_backgroundElement | Text: null
+XPath: //div[12] | ID: modalExitWarning_backgroundElement | Text: null
