@@ -3,6 +3,16 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from pymongo import MongoClient
+from Scrape import get_all_paths
+
+def fetch_data_from_mongo(table_name="personal1"):
+    uri = "mongodb+srv://puneetjavaji:AutoVisa360@cluster0.cel8s.mongodb.net/visa360?retryWrites=true&w=majority&appName=Cluster0"
+    client = MongoClient(uri)
+    db = client['visa360']
+    collection = db['formsubmissions']
+    doc = collection.find_one({"tableName": table_name}, sort=[("createdAt", -1)])
+    return doc["data"] if doc else {}
 
 def main():
     # Setup WebDriver
@@ -35,8 +45,26 @@ def main():
     submit_button.click()
 
     print("\n[INFO] Form submitted successfully!")
+    time.sleep(5)   # give the page a little time to load
 
-    time.sleep(5)  # Wait to see results
+    # Check the box using its ID
+    checkbox = driver.find_element(By.ID, "ctl00_SiteContentPlaceHolder_chkbxPrivacyAct")
+    checkbox.click()
+
+    time.sleep(5)
+    security = driver.find_element(By.ID, "ctl00_SiteContentPlaceHolder_txtAnswer")
+    security.send_keys("Abc")
+
+    con = driver.find_element(By.ID, "ctl00_SiteContentPlaceHolder_btnContinue")
+    con.click()
+
+    current_url = driver.current_url
+    print("[INFO] Running Scrape.get_all_paths on:", current_url)
+    paths = get_all_paths(current_url)
+    print("→ Found paths:", paths)
+
+    while True:
+        time.sleep(5)  # Wait to see results
     driver.quit()
 
 if __name__ == "__main__":
