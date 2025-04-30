@@ -1,0 +1,480 @@
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //td[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+
+
+NOTE: Data on this page must match the information as it is written in your passport.
+Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
+Sex
+   - SELECT ONE -
+   MALE
+   FEMALE
+   Marital Status 
+    
+-SELECT ONE-
+    MARRIED
+    COMMON LAW MARRIAGE
+    CIVIL UNION/DOMESTIC PARTNERSHIP
+    SINGLE
+    WIDOWED
+    DIVORCED
+    LEGALLY SEPARATED
+    OTHER
+    Help: Sex
+Please select MALE or FEMALE
+Date and Place of Birth
+Date
+   
+   01
+   02
+   03
+   04
+   05
+   06
+   07
+   08
+   09
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+   31
+   
+   
+   JAN
+   FEB
+   MAR
+   APR
+   MAY
+   JUN
+   JUL
+   AUG
+   SEP
+   OCT
+   NOV
+   DEC
+   (Format: DD-MMM-YYYY)
+
+City
+State/Province
+Does Not Apply
+Country/Region 
+   
+- SELECT ONE -
+   AFGHANISTAN
+   ALBANIA
+   ALGERIA
+   AMERICAN SAMOA
+   ANDORRA
+   ANGOLA
+   ANGUILLA
+   ANTIGUA AND BARBUDA
+   ARGENTINA
+   ARMENIA
+   ARUBA
+   AT SEA
+   AUSTRALIA
+   AUSTRIA
+   AZERBAIJAN
+   BAHAMAS
+   BAHRAIN
+   BANGLADESH
+   BARBADOS
+   BELARUS
+   BELGIUM
+   BELIZE
+   BENIN
+   BERMUDA
+   BHUTAN
+   BOLIVIA
+   BOSNIA-HERZEGOVINA
+   BOTSWANA
+   BRAZIL
+   BRITISH INDIAN OCEAN TERRITORY
+   BRUNEI
+   BULGARIA
+   BURKINA FASO
+   BURMA
+   BURUNDI
+   CAMBODIA
+   CAMEROON
+   CANADA
+   CABO VERDE
+   CAYMAN ISLANDS
+   CENTRAL AFRICAN REPUBLIC
+   CHAD
+   CHILE
+   CHINA
+   CHRISTMAS ISLAND
+   COCOS KEELING ISLANDS
+   COLOMBIA
+   COMOROS
+   CONGO, DEMOCRATIC REPUBLIC OF THE
+   CONGO, REPUBLIC OF THE
+   COOK ISLANDS
+   COSTA RICA
+   COTE D`IVOIRE
+   CROATIA
+   CUBA
+   CURACAO
+   CYPRUS
+   CZECH REPUBLIC
+   DENMARK
+   DJIBOUTI
+   DOMINICA
+   DOMINICAN REPUBLIC
+   ECUADOR
+   EGYPT
+   EL SALVADOR
+   EQUATORIAL GUINEA
+   ERITREA
+   ESTONIA
+   ESWATINI
+   ETHIOPIA
+   FALKLAND ISLANDS
+   FAROE ISLANDS
+   FIJI
+   FINLAND
+   FRANCE
+   FRENCH POLYNESIA
+   FRENCH SOUTHERN AND ANTARCTIC TERRITORIES
+   GABON
+   GAMBIA, THE
+   GAZA STRIP
+   GEORGIA
+   GERMANY
+   GHANA
+   GIBRALTAR
+   GREECE
+   GREENLAND
+   GRENADA
+   GUAM
+   GUATEMALA
+   GUINEA
+   GUINEA - BISSAU
+   GUYANA
+   HAITI
+   HEARD AND MCDONALD ISLANDS
+   HOLY SEE (VATICAN CITY)
+   HONDURAS
+   HONG KONG BNO
+   HONG KONG SAR
+   HOWLAND ISLAND
+   HUNGARY
+   ICELAND
+   IN THE AIR
+   INDIA
+   INDONESIA
+   IRAN
+   IRAQ
+   IRELAND
+   ISRAEL
+   ITALY
+   JAMAICA
+   JAPAN
+   JERUSALEM
+   JORDAN
+   KAZAKHSTAN
+   KENYA
+   KIRIBATI
+   KOREA, DEMOCRATIC REPUBLIC OF (NORTH)
+   KOREA, REPUBLIC OF (SOUTH)
+   KOSOVO
+   KUWAIT
+   KYRGYZSTAN
+   LAOS
+   LATVIA
+   LEBANON
+   LESOTHO
+   LIBERIA
+   LIBYA
+   LIECHTENSTEIN
+   LITHUANIA
+   LUXEMBOURG
+   MACAU
+   MACEDONIA, NORTH
+   MADAGASCAR
+   MALAWI
+   MALAYSIA
+   MALDEN ISLAND
+   MALDIVES
+   MALI
+   MALTA
+   MARSHALL ISLANDS
+   MAURITANIA
+   MAURITIUS
+   MAYOTTE
+   MEXICO - AGUASCALIENTES
+   MEXICO - BAJA CALIFORNIA NORTE
+   MEXICO - BAJA CALIFORNIA SUR
+   MEXICO - CAMPECHE
+   MEXICO - CHIAPAS
+   MEXICO - CHIHUAHUA
+   MEXICO - COAHUILA
+   MEXICO - COLIMA
+   MEXICO - DISTRITO FEDERAL
+   MEXICO - DURANGO
+   MEXICO - GUANAJUATO
+   MEXICO - GUERRERO
+   MEXICO - HIDALGO
+   MEXICO - JALISCO
+   MEXICO - MICHOACAN
+   MEXICO - MORELOS
+   MEXICO - NAYARIT
+   MEXICO - NUEVO LEON
+   MEXICO - OAXACA
+   MEXICO - PUEBLA
+   MEXICO - QUERETARO
+   MEXICO - QUINTANA ROO
+   MEXICO - SAN LUIS POTOSI
+   MEXICO - SINALOA
+   MEXICO - SONORA
+   MEXICO - STATE OF MEXICO
+   MEXICO - TABASCO
+   MEXICO - TAMAULIPAS
+   MEXICO - TLAXCALA
+   MEXICO - VERACRUZ
+   MEXICO - YUCATAN
+   MEXICO - ZACATECAS
+   MICRONESIA
+   MIDWAY ISLANDS
+   MOLDOVA
+   MONACO
+   MONGOLIA
+   MONTENEGRO
+   MONTSERRAT
+   MOROCCO
+   MOZAMBIQUE
+   NAMIBIA
+   NAURU
+   NEPAL
+   NETHERLANDS
+   NEW CALEDONIA
+   NEW ZEALAND
+   NICARAGUA
+   NIGER
+   NIGERIA
+   NIUE
+   NORFOLK ISLAND
+   NORTH MARIANA ISLANDS
+   NORTHERN IRELAND
+   NORWAY
+   OMAN
+   PAKISTAN
+   PALAU
+   PALMYRA ATOLL
+   PANAMA
+   PAPUA NEW GUINEA
+   PARAGUAY
+   PERU
+   PHILIPPINES
+   PITCAIRN ISLANDS
+   POLAND
+   PORTUGAL
+   PUERTO RICO
+   QATAR
+   ROMANIA
+   RUSSIA
+   RWANDA
+   SAINT MARTIN
+   SAMOA
+   SAN MARINO
+   SAO TOME AND PRINCIPE
+   SAUDI ARABIA
+   SENEGAL
+   SERBIA
+   SEYCHELLES
+   SIERRA LEONE
+   SINGAPORE
+   SINT MAARTEN
+   SLOVAKIA
+   SLOVENIA
+   SOLOMON ISLANDS
+   SOMALIA
+   SOUTH AFRICA
+   SOUTH GEORGIA AND THE SOUTH SANDWICH ISLAND
+   SOUTH SUDAN
+   SPAIN
+   SRI LANKA
+   ST. BARTHELEMY
+   ST. HELENA
+   ST. KITTS AND NEVIS
+   ST. LUCIA
+   ST. PIERRE AND MIQUELON
+   ST. VINCENT AND THE GRENADINES
+   SUDAN
+   SURINAME
+   SVALBARD
+   SWEDEN
+   SWITZERLAND
+   SYRIA
+   TAIWAN
+   TAJIKISTAN
+   TANZANIA
+   THAILAND
+   TIMOR-LESTE
+   TOGO
+   TOKELAU
+   TONGA
+   TRINIDAD AND TOBAGO
+   TUNISIA
+   TURKEY
+   TURKMENISTAN
+   TURKS AND CAICOS ISLANDS
+   TUVALU
+   UGANDA
+   UKRAINE
+   UNITED ARAB EMIRATES
+   UNITED KINGDOM
+   UNITED STATES OF AMERICA
+   URUGUAY
+   UZBEKISTAN
+   VANUATU
+   VENEZUELA
+   VIETNAM
+   VIRGIN ISLANDS (U.S.)
+   VIRGIN ISLANDS, BRITISH
+   WAKE ISLAND
+   WALLIS AND FUTUNA ISLANDS
+   WEST BANK
+   WESTERN SAHARA
+   YEMEN
+   ZAMBIA
+   ZIMBABWE
+   Help: Date of Birth
+If day or month is unknown, enter as shown in passport.
+Help: Country/Region
+Select the name that is currently in use for the place where you were born.
+Public reporting burden for this collection of information is estimated to average 90 minutes per response, including time required for searching existing data sources, gathering the necessary documentation, providing the information and/or documents required, and reviewing the final collection. You do not have to supply this information unless this collection displays a currently valid OMB control number. If you have comments on the accuracy of this burden estimate and/or recommendations for reducing it, please send them to: PRA_BurdenComments@state.gov
+
+Confidentiality Statement
+The information asked for on this form is requested pursuant to Section 222 of the Immigration and Nationality Act. INA Section 222(f) provides that the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance and refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States. Certified copies of such records may be made available to a court provided the court certifies that the information contained in such records is needed in a case pending before the court.
+XPath: //table[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //tbody[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //tr[1] | ID: null | Text: Personal Information 1
+
+OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //td[1] | ID: null | Text: Personal Information 1
+XPath: //h2[1] | ID: null | Text: Personal Information 1
+XPath: //span[1] | ID: null | Text: Personal Information 1
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_PersonalInfoLabel | Text: Personal Information 1
+XPath: //td[2] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //br[1] | ID: null | Text: null
+XPath: //div[1] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //table[1] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //tbody[1] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+FORM NUMBER: DS-160
+EXPIRATION DATE: 10/31/2024
+ESTIMATED BURDEN: 90 MIN
+XPath: //tr[1] | ID: null | Text: OMB CONTROL NUMBER: 1405-0182
+XPath: //td[1] | ID: null | Text: OMB CONTROL NUMBER:
+XPath: //span[1] | ID: null | Text: OMB CONTROL NUMBER:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblOMBControlNo | Text: OMB CONTROL NUMBER:
+XPath: //td[2] | ID: null | Text: 1405-0182
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblOMBControlNoValue | Text: 1405-0182
+XPath: //tr[2] | ID: null | Text: FORM NUMBER: DS-160
+XPath: //td[1] | ID: null | Text: FORM NUMBER:
+XPath: //span[1] | ID: null | Text: FORM NUMBER:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblFormNo | Text: FORM NUMBER:
+XPath: //td[2] | ID: null | Text: DS-160
+XPath: //span[1] | ID: null | Text: DS-160
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblFormNoValue | Text: DS-160
+XPath: //tr[3] | ID: null | Text: EXPIRATION DATE: 10/31/2024
+XPath: //td[1] | ID: null | Text: EXPIRATION DATE:
+XPath: //span[1] | ID: null | Text: EXPIRATION DATE:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblExpireDate | Text: EXPIRATION DATE:
+XPath: //td[2] | ID: null | Text: 10/31/2024
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblExpireDateValue | Text: 10/31/2024
+XPath: //tr[4] | ID: null | Text: ESTIMATED BURDEN: 90 MIN
+XPath: //td[1] | ID: null | Text: ESTIMATED BURDEN:
+XPath: //span[1] | ID: null | Text: ESTIMATED BURDEN:
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblEstBurden | Text: ESTIMATED BURDEN:
+XPath: //td[2] | ID: null | Text: 90 MIN
+XPath: //span[1] | ID: null | Text: 90 MIN
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblEstBurdenValue | Text: 90 MIN
+XPath: //br[1] | ID: null | Text: null
+XPath: //br[2] | ID: null | Text: null
+XPath: //div[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_ValidationSummary | Text: null
+XPath: //div[2] | ID: null | Text: NOTE: Data on this page must match the information as it is written in your passport.
+XPath: //span[1] | ID: null | Text: NOTE: Data on this page must match the information as it is written in your passport.
+XPath: //span[1] | ID: ctl00_SiteContentPlaceHolder_FormView1_lblPageNote1 | Text: NOTE: Data on this page must match the information as it is written in your passport.
+XPath: //div[3] | ID: null | Text: Surnames
+(e.g., FERNANDEZ GARCIA)
+Given Names
+
+(e.g., JUAN MIGUEL)
+Full Name in Native Alphabet
+Does Not Apply/Technology Not Available
+Help: Surnames
+Enter all surnames as listed in your passport. If only one name is listed in your passport, enter that Surname.
+Help: Given Names
+If your passport does not include a given name, please enter 'FNU' in Given Names.
+Have you ever used other names (i.e., maiden, religious, professional, alias, etc.)?
+Yes No
+Help: Other Names
+Other names used include your maiden name, religious name, professional name, or any other names which you are known by or have been known by in the past.
+Do you have a telecode that represents your name?
+Yes No
+Help: Telecode
+Telecodes are 4 digit code numbers that represent characters in some non-Roman alphabet names.
