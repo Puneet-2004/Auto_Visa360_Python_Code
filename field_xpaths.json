@@ -1,0 +1,73 @@
+{
+  "personalinformation1": {
+    "surnames": {
+      "type": "input",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_SURNAME"
+    },
+    "givenNames": {
+      "type": "input",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_GIVEN_NAME"
+    },
+    "fullNameNative": {
+      "type": "input",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_FULL_NAME_NATIVE",
+      "na_checkbox": "ctl00_SiteContentPlaceHolder_FormView1_cbexAPP_FULL_NAME_NATIVE_NA"
+    },
+    "dob": {
+      "type": "input",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxBirthDate"
+    },
+    "placeOfBirth_city": {
+      "type": "input",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxCityOfBirth"
+    },
+    "placeOfBirth_state": {
+      "type": "input",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxStateOfBirth"
+    },
+    "placeOfBirth_country": {
+      "type": "select",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlCountryOfBirth"
+    },
+    "otherNameUsed": {
+      "type": "radio",
+      "group_prefix": "ctl00_SiteContentPlaceHolder_FormView1_rblOtherNames"
+    },
+    "hasTelecode": {
+      "type": "radio",
+      "group_prefix": "ctl00_SiteContentPlaceHolder_FormView1_rblTelecodeQuestion"
+    },
+    "sex": {
+      "type": "select",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_GENDER"
+    },
+    "maritalStatus": {
+      "type": "select",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_MARITAL_STATUS"
+    },
+    "dob_D": {
+      "type": "select",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlDOBDay"
+    },
+    "dob_M": {
+      "type": "select",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlDOBMonth"
+    },
+    "dob_Y": {
+      "type": "input",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxDOBYear"
+    },
+    "birthCity": {
+      "type": "checkbox",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_POB_CITY"
+    },
+    "birthState": {
+      "type": "checkbox",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_POB_ST_PROVINCE"
+    },
+    "birthCountry": {
+      "type": "checkbox",
+      "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_POB_CNTRY"
+    }
+  }
+}

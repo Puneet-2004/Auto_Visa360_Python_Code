@@ -6,7 +6,14 @@ from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
 from pymongo import MongoClient
+import json
 
+
+#Used to fetch the collection containing the xpath with the table name
+def load_xpath_config(table_name, path="field_xpaths.json"):
+    with open(path, "r", encoding="utf-8") as f:
+        config = json.load(f)
+    return config.get(table_name, {})
 
 #Used to check if a field exists in the form
 def element_exists(driver, by, value):
@@ -147,78 +154,6 @@ def main():
             file.write(f"Application id = {application_id.text.strip()}")
 
 
-        FIELD_XPATHS = {
-            "surnames": {
-                "type": "input",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_SURNAME"
-            },
-            "givenNames": {
-                "type": "input",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_GIVEN_NAME"
-            },
-            "fullNameNative": {
-                "type": "input",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_FULL_NAME_NATIVE",
-                "na_checkbox": "ctl00_SiteContentPlaceHolder_FormView1_cbexAPP_FULL_NAME_NATIVE_NA"
-            },
-            "dob": {
-                "type": "input",  # Or handle type='date' differently if format sensitive
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxBirthDate"
-            },
-            "placeOfBirth_city": {
-                "type": "input",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxCityOfBirth"
-            },
-            "placeOfBirth_state": {
-                "type": "input",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxStateOfBirth"
-            },
-            "placeOfBirth_country": {
-                "type": "select",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlCountryOfBirth"
-            },
-            "otherNameUsed": {
-                "type": "radio",
-                "group_prefix": "ctl00_SiteContentPlaceHolder_FormView1_rblOtherNames"
-            },
-            "hasTelecode": {
-                "type": "radio",
-                "group_prefix": "ctl00_SiteContentPlaceHolder_FormView1_rblTelecodeQuestion"
-            },
-            "sex": {
-                "type": "select",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_GENDER"
-            },
-            "maritalStatus": {
-                "type": "select",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_MARITAL_STATUS"
-            },
-            "dob_D": {
-                "type": "select",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlDOBDay"
-            },
-            "dob_M": {
-                "type": "select",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlDOBMonth"
-            },
-            "dob_Y": {
-                "type": "input",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxDOBYear"
-            },
-            "birthCity": {
-                "type": "checkbox",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_POB_CITY"
-            },
-            "birthState": {
-                "type": "checkbox",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_tbxAPP_POB_ST_PROVINCE"
-            },
-            "birthCountry": {
-                "type": "checkbox",
-                "id": "ctl00_SiteContentPlaceHolder_FormView1_ddlAPP_POB_CNTRY"
-            }
-        }
-
 
         """# Find all elements on the page
         elements = driver.find_elements(By.XPATH, "//*")
@@ -232,8 +167,9 @@ def main():
                 file.write(f"XPath: {xpath} | ID: {element_id} | Text: {text_content}\n")"""
 
 
-
-        data = fetch_data_from_mongo(extract_table_name(driver), id)
+        table_name = extract_table_name(driver)
+        FIELD_XPATHS = FIELD_XPATHS = load_xpath_config(table_name)
+        data = fetch_data_from_mongo(table_name, id)
 
         try:
             for field, config in FIELD_XPATHS.items():
