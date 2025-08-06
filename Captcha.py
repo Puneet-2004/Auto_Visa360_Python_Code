@@ -8,7 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from pymongo import MongoClient
 
 
-#Used to check if a field exists in the form
+#Used to check if a field exists in the form. This is a pre check
 def element_exists(driver, by, value):
     try:
         driver.find_element(by, value)
